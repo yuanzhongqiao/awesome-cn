@@ -1,25 +1,11 @@
-<div align="center">
-	<a href="https://vshymanskyy.github.io/StandWithUkraine">
-		<img width="500" height="350" src="media/logo-ua.svg" alt="Awesome">
-		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
-	</a>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<div>
-		<sub>Check out my latest app</sub>
+
+	<div dir="auto">
+		<sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看我的最新应用程序</font></font></sub>
 		<br>
-		<h2>
-			<a href="https://www.producthunt.com/posts/one-task">One Task</a>
+		<h2 tabindex="-1" dir="auto"><a id="user-content-one-taskstop-procrastination-and-get-stuff-done-by-focusing-on-one-task-at-a-time" class="anchor" aria-hidden="true" tabindex="-1" href="#one-taskstop-procrastination-and-get-stuff-done-by-focusing-on-one-task-at-a-time"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
+			<a href="https://www.producthunt.com/posts/one-task" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一项任务</font></font></a>
 			<br>
-			<sup>Stop procrastination and get stuff done by focusing on one task at a time</sup>
+			<sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一次专注于一项任务，停止拖延并完成工作</font></font></sup>
 		</h2>
 	</div>
 	<br>
@@ -30,874 +16,958 @@
 	<br>
 	<br>
 	<hr>
-	<p>
-		<p>
+	<p dir="auto">
+		</p><p dir="auto">
 			<sup>
-				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
+				<a href="https://github.com/sponsors/sindresorhus"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我的开源工作得到了社区的支持</font></font></a>
 			</sup>
 		</p>
-		<sup>Special thanks to:</sup>
+		<sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特别感谢：</font></font></sup>
 		<br>
 		<br>
-		<a href="https://standardresume.co/tech">
-			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
+		<a href="https://standardresume.co/tech" rel="nofollow">
+			<img src="https://camo.githubusercontent.com/67c91a016c05b6e671ce2a8ce5353edb898f2ad7232a50dc2b7a71d4911e560e/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f7374616e646172642d726573756d652d6c6f676f2e737667" width="160" data-canonical-src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" style="max-width: 100%;">
 		</a>
 		<br>
 		<br>
-		<a href="https://retool.com/?utm_campaign=sindresorhus">
-			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="210"/>
+		<a href="https://retool.com/?utm_campaign=sindresorhus" rel="nofollow">
+			<img src="https://camo.githubusercontent.com/4b3a9422a59b5d5ce3c8db9f3d48ad717c31020cd1490321b6838be26de48ad9/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f7265746f6f6c2d6c6f676f2e737667" width="210" data-canonical-src="https://sindresorhus.com/assets/thanks/retool-logo.svg" style="max-width: 100%;">
 		</a>
 		<br>
 		<br>
-		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
+		<a href="https://workos.com/?utm_campaign=github_repo&amp;utm_medium=referral&amp;utm_content=awesome&amp;utm_source=github" rel="nofollow">
+			<div dir="auto">
+				<img src="https://camo.githubusercontent.com/f00ce3418e0ca01b8d6845697fc5195aa68edccddb87434a6ff559412a9b6e3a/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f776f726b6f732d6c6f676f2d77686974652d62672e737667" width="200" alt="工作操作系统" data-canonical-src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" style="max-width: 100%;">
 			</div>
-			<b>Your app, enterprise-ready.</b>
-			<div>
-				<sub>Start selling to enterprise customers with just a few lines of code.</sub>
+			<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您的应用程序，企业就绪。</font></font></b>
+			<div dir="auto">
+				<sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只需几行代码即可开始向企业客户销售。</font></font></sub>
 				<br>
-				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
+				<sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只需几分钟而不是几个月即可添加单点登录（甚至更多）。</font></font></sup>
 			</div>
 		</a>
 		<br>
-		<a href="https://strapi.io/?ref=sindresorhus">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/strapi-logo-white-bg.png" width="200" alt="Strapi">
+		<a href="https://strapi.io/?ref=sindresorhus" rel="nofollow">
+			<div dir="auto">
+				<img src="https://camo.githubusercontent.com/4d3b0bf888ac5557b5e855fe113a582a25f1afcc339df59a54f5c523ce46ec9e/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f7374726170692d6c6f676f2d77686974652d62672e706e67" width="200" alt="斯特拉皮" data-canonical-src="https://sindresorhus.com/assets/thanks/strapi-logo-white-bg.png" style="max-width: 100%;">
 			</div>
-			<b>Strapi is the leading open-source headless CMS.</b>
-			<div>
-				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
+			<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Strapi 是领先的开源无头 CMS。</font></font></b>
+			<div dir="auto">
+				<sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它是 100% JavaScript、完全可定制且开发人员优先。</font></font></sup>
 			</div>
 		</a>
 		<br>
 		<br>
-		<a href="https://serpapi.com#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="140" alt="SerpApi">
+		<a href="https://serpapi.com#gh-light-mode-only" rel="nofollow">
+			<div dir="auto">
+				<img src="https://camo.githubusercontent.com/7829be973ce1e1402727ce4d232320e126d9074770b9a3516aca440151ee43d7/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f736572706170692d6c6f676f2d6c696768742e737667" width="140" alt="SerpAPI" data-canonical-src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" style="max-width: 100%;">
 			</div>
-			<b>API to get search engine results with ease.</b>
+			<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">API可轻松获取搜索引擎结果。</font></font></b>
 		</a>
-		<a href="https://serpapi.com#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="140" alt="SerpApi">
+		<a href="https://serpapi.com#gh-dark-mode-only" rel="nofollow">
+			<div dir="auto">
+				<img src="https://camo.githubusercontent.com/d095b4c39ebafb9c46dc060a5c6c57bb4ab1bde8dd72a6b34e13c1e0994125ee/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f736572706170692d6c6f676f2d6461726b2e737667" width="140" alt="SerpAPI" data-canonical-src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" style="max-width: 100%;">
 			</div>
-			<b>API to get search engine results with ease.</b>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://transloadit.com?utm_source=sindresorhus&utm_medium=referral&utm_campaign=sponsorship&utm_content=awesome">
-			<picture>
-				<source width="340" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo-dark.svg">
-				<source width="340" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo.svg">
-				<img width="340" src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg" alt="Transloadit logo">
-			</picture>
+			<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">API可轻松获取搜索引擎结果。</font></font></b>
 		</a>
 		<br>
 		<br>
 		<br>
-	</p>
+		<a href="https://transloadit.com?utm_source=sindresorhus&amp;utm_medium=referral&amp;utm_campaign=sponsorship&amp;utm_content=awesome" rel="nofollow">
+			<themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+				<source width="340" media="(prefers-color-scheme: dark)" srcset="https://camo.githubusercontent.com/d0d1425a0fe7c3fb506d2f3a68dc770698388fe4c4e1528d2d49f4bfc194ae6d/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f7472616e736c6f616469742d6c6f676f2d6461726b2e737667" data-canonical-src="https://sindresorhus.com/assets/thanks/transloadit-logo-dark.svg">
+				<source width="340" media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/9dd2716cbe1f3badaeda979b338235e232e51fef5c782eafe1763df9fef9a824/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f7472616e736c6f616469742d6c6f676f2e737667" data-canonical-src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg">
+				<img width="340" src="https://camo.githubusercontent.com/9dd2716cbe1f3badaeda979b338235e232e51fef5c782eafe1763df9fef9a824/68747470733a2f2f73696e647265736f726875732e636f6d2f6173736574732f7468616e6b732f7472616e736c6f616469742d6c6f676f2e737667" alt="转运标志" data-canonical-src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg" style="visibility:visible;max-width:100%;">
+			</picture></themed-picture>
+		</a>
+		<br>
+		<br>
+		<br>
+	<p dir="auto"></p>
 	<hr>
 	<br>
 	<br>
 	<br>
 	<br>
 </div>
-
-<p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
-</p>
-
-<br>
-
-<div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
-</div>
-
-<br>
-
-<div align="center">
-	<b><a href="https://t.me/sindresorhuschat/70">Telegram group</a></b>
-</div>
-
-<br>
-
-<p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://sindresorhus.com/apps">apps</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+<p align="center" dir="auto">
+	<a href="/sindresorhus/awesome/blob/main/awesome.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">什么是很棒的清单？</font></font></a>&nbsp;&nbsp;&nbsp;
+	<a href="/sindresorhus/awesome/blob/main/contributing.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a>&nbsp;&nbsp;&nbsp;
+	<a href="/sindresorhus/awesome/blob/main/create-list.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建列表</font></font></a>&nbsp;&nbsp;&nbsp;
+	<a href="https://twitter.com/awesome__re" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter</font></font></a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贴纸和 T 恤</font></font></a>
 </p>
 <br>
-
-## Contents
-
-- [Platforms](#platforms)
-- [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
-- [Back-End Development](#back-end-development)
-- [Computer Science](#computer-science)
-- [Big Data](#big-data)
-- [Theory](#theory)
-- [Books](#books)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
-- [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
-- [Hardware](#hardware)
-- [Business](#business)
-- [Work](#work)
-- [Networking](#networking)
-- [Decentralized Systems](#decentralized-systems)
-- [Health and Social Science](#health-and-social-science)
-- [Events](#events)
-- [Testing](#testing)
-- [Miscellaneous](#miscellaneous)
-- [Related](#related)
-
-## Platforms
-
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
-- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-- [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
-- [Linux](https://github.com/inputsh/awesome-linux#readme)
-	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
-	- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
-- macOS - Operating system for Apple's Mac computers.
-	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
-	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
-- [JVM](https://github.com/deephacks/awesome-jvm#readme)
-- [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
-- [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
-- [Windows](https://github.com/Awesome-Windows/Awesome#readme)
-- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
-- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
-- [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-- [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
-- [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
-- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
-- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
-- [KDE](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
-- [.NET](https://github.com/quozd/awesome-dotnet#readme)
-	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
-	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
-- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
-- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
-- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
-- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
-- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
-- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
-- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
-- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
-- [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
-- [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
-- [Deno](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
-- [DOS](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
-- [Nix](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
-- [Integration](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
-- [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
-- [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
-- [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform open source runtime for building Web Native apps.
-- [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - Mapping and location analysis platform for developers.
-
-## Programming Languages
-
-- [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
-	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
-	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
-	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
-	- [Tips](https://github.com/loverajoel/jstips#readme)
-	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
-	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
-	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-	- [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
-	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
-	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
-	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
-	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-	- [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
-- [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
-	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
-	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
-- [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
-	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
-	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
-	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
-	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
-- [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
- 	- [Pest](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
-- [Haskell](https://github.com/krispo/awesome-haskell#readme)
-- [PureScript](https://github.com/passy/awesome-purescript#readme)
-- [Go](https://github.com/avelino/awesome-go#readme)
-- [Scala](https://github.com/lauris/awesome-scala#readme)
-	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - Optimizing ahead-of-time compiler for Scala based on LLVM.
-- [Ruby](https://github.com/markets/awesome-ruby#readme)
-- [Clojure](https://github.com/razum2um/awesome-clojure#readme)
-- [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
-- [Elixir](https://github.com/h4cc/awesome-elixir#readme)
-- [Elm](https://github.com/sporto/awesome-elm#readme)
-- [Erlang](https://github.com/drobakowski/awesome-erlang#readme)
-- [Julia](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
-- [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
-- [C](https://github.com/inputsh/awesome-c#readme)
-- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
-- [R](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
-	- [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
-- [D](https://github.com/dlang-community/awesome-d#readme)
-- [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
-	- [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
-- [Perl](https://github.com/hachiojipm/awesome-perl#readme)
-- [Groovy](https://github.com/kdabir/awesome-groovy#readme)
-- [Dart](https://github.com/yissachar/awesome-dart#readme)
-- [Java](https://github.com/akullpp/awesome-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
-	- [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
-- [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
-- [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme)
-- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
-- [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
-- [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
-	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
-- [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
-- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
-- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
-- [Crystal](https://github.com/veelenga/awesome-crystal#readme)
-- [Frege](https://github.com/sfischer13/awesome-frege#readme) - Haskell for the JVM.
-- [CMake](https://github.com/onqtam/awesome-cmake#readme) - Build, test, and package software.
-- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - Object-oriented language targeting Adobe AIR.
-- [Eta](https://github.com/sfischer13/awesome-eta#readme) - Functional programming language for the JVM.
-- [Idris](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
-- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
-- [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
-- [Imba](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
-- [Vala](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
-- [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
-- [V](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
-- [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-- [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
-- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
-
-## Front-End Development
-
-- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
-- [Web Tools](https://github.com/lvwzhen/tools#readme)
-- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
-	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme)
-	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
-	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
-	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
-- [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
-	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
-	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
-- [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
-- [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
-- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
-- [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
-- [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
-- [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
-- [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
-- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
-- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
-- [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
-- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
-- [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
-- [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
-- [Meteor](https://github.com/Urigo/awesome-meteor#readme)
-- [BEM](https://github.com/sturobson/BEM-resources#readme)
-- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme)
-- [Web Typography](https://github.com/deanhume/typography#readme)
-- [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
-- [Material Design](https://github.com/sachin1092/awesome-material#readme)
-- [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
-- [Emails](https://github.com/jonathandion/awesome-emails#readme)
-- [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
-	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme)
-- [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
-- [Offline-First](https://github.com/pazguille/offline-first#readme)
-- [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
-- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
-- [Text Editing](https://github.com/dok/awesome-text-editing#readme)
-- [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
-- [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
-- [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
-- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
-- [Charting](https://github.com/zingchart/awesome-charting#readme)
-- [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
-- [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
-- [PostCSS](https://github.com/jdrgomes/awesome-postcss#readme) - CSS tool.
-- [Draft.js](https://github.com/nikgraf/awesome-draft-js#readme) - Rich text editor framework for React.
-- [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
-- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
-- [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
-- [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
-- [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
-- [Sass](https://github.com/Famolus/awesome-sass#readme) - CSS preprocessor.
-- [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
-- [Less](https://github.com/LucasBassetti/awesome-less#readme) - CSS preprocessor.
-- [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API for rendering 3D graphics.
-- [Preact](https://github.com/preactjs/awesome-preact#readme) - App framework.
-- [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
-- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
-- [lit](https://github.com/web-padawan/awesome-lit#readme) - Library for building web components with a declarative template system.
-- [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
-- [WordPress-Gatsby](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
-- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
-- [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
-- [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-- [PageSpeed Metrics](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
-- [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
-- [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
-- [Web Performance Budget](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
-- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
-- [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
-- [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
-- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
-- [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
-- [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
-- [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
-- [Master CSS](https://github.com/master-co/awesome-master-css#readme) - A virtual CSS language with enhanced syntax.
-- [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React.
-- [Tiny JS](https://github.com/thoughtspile/awesome-tiny-js#readme) - Frontend libraries that fit into 2 kB with dependencies.
-
-## Back-End Development
-
-- [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
-- [Docker](https://github.com/veggiemonk/awesome-docker#readme)
-- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
-- [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
-- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
-- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
-	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
-- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
-	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-	- [TALL Stack](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
-- [Rails](https://github.com/gramantin/awesome-rails#readme) - Web app framework for Ruby.
-	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
-- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
-- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
-- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
-- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
-- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
-- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
-- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
-- [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Server-side development in Swift.
-- [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
-- [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
-- [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
-- [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
-- [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
-- [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
-
-## Computer Science
-
-- [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
-- [Data Science](https://github.com/academic/awesome-datascience#readme)
-	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
-- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
-	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
-	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
-	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
-	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
-	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
-	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
-	- [JAX](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
-	- [XAI](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
-- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
-	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
-	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
-	- [Question Answering](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
-	- [Natural Language Generation](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
-- [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
-- [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
-	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
-- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
-	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - Library for machine intelligence.
-	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
-	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - Framework that optimizes TensorFlow models for on-device machine learning.
-	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
-	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
-- [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
-- [Open Source Society University](https://github.com/ossu/computer-science#readme)
-- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
-- [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
-- [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
-- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
-- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
-- [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
-- [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
-- [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
-
-## Big Data
-
-- [Big Data](https://github.com/0xnr/awesome-bigdata#readme)
-- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
-- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
-- [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
-- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
-- [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
-- [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
-
-## Theory
-
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
-- [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
-- [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
-	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
-- [Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
-- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
-- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
-- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
-- [Math](https://github.com/rossant/awesome-math#readme)
-- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
-- [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
-- [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
-- [Complex Systems](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
-
-## Books
-
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
-- [Go Books](https://github.com/dariubs/GoBooks#readme)
-- [R Books](https://github.com/RomanTsegelskyi/rbooks#readme)
-- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
-- [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
-- [Elixir Books](https://github.com/sger/ElixirBooks#readme)
-
-## Editors
-
-- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
-- [Vim](https://github.com/mhinz/vim-galore#readme)
-- [Neovim](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
-- [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
-- [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
-
-## Gaming
-
-- [Game Development](https://github.com/ellisonleao/magictools#readme)
-- [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
-- [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
-- [Open Source Games](https://github.com/michelpereira/awesome-open-source-games#readme)
-- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
-- [Chess](https://github.com/hkirat/awesome-chess#readme)
-- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
-- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
-- [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
-- [Construct 2](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
-- [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
-- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
-- [ComputerCraft](https://github.com/tomodachi94/awesome-computercraft#readme) - Minecraft mod that adds programmable computers.
-- [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
-- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
-- [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
-- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
-- [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
-- [Flame](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
-- [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
-- [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
-- [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
-- [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
-- [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
-- [Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
-- [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
-- [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
-
-## Development Environment
-
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
-- [Dev Env](https://github.com/jondot/awesome-devenv#readme)
-- [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
-- [Shell](https://github.com/alebcay/awesome-shell#readme)
-- [Fish](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
-- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
-- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)
-- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
-	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
-	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
-	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
-- [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
-- [Git Tips](https://github.com/git-tips/tips#readme)
-- [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
-- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
-- [SSH](https://github.com/moul/awesome-ssh#readme)
-- [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
-- [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
-- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
-- [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
-- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
-- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
-
-## Entertainment
-
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
-- [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
-- [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
-- [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
-- [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
-
-## Databases
-
-- [Database](https://github.com/numetriclabz/awesome-db#readme)
-- [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
-- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
-- [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb#readme)
-- [Neo4j](https://github.com/neueda/awesome-neo4j#readme)
-- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
-- [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
-- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) - Graph computing framework.
-- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
-- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
-- [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
-- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
-- [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
-- [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
-- [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
-- [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
-- [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
-
-## Media
-
-- [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
-- [Fonts](https://github.com/brabadu/awesome-fonts#readme)
-- [Codeface](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
-- [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
-- [GIF](https://github.com/davisonio/awesome-gif#readme) - Image format known for animated images.
-- [Music](https://github.com/ciconia/awesome-music#readme)
-- [Open Source Documents](https://github.com/44bits/awesome-opensource-documents#readme)
-- [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme)
-- [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
-- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - Pixel-level digital art.
-- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
-- [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
-- [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
-- [VLC](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
-
-## Learn
-
-- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
-- [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
-- [Speaking](https://github.com/matteofigus/awesome-speaking#readme)
-- [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme)
-- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
-- [Computer History](https://github.com/watson/awesome-computer-history#readme)
-- [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
-- [STEAM](https://github.com/RahulBirCodes/awesome-steam#readme) - Supplements for specific science, technology, engineering, arts, and math (STEAM) courses across all grade levels.
-- [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
-- [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
-- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
-- [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
-- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
-- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
-- [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
-- [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
-
-## Security
-
-- [Application Security](https://github.com/paragonie/awesome-appsec#readme)
-- [Security](https://github.com/sbilly/awesome-security#readme)
-- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
-- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
-- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
-- [Android Security](https://github.com/ashishb/android-security-awesome#readme)
-- [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
-- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
-- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
-- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
-- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
-- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
-- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
-- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
-- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
-- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
-- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
-- [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
-- [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
-- [Password Cracking](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
-- [Security Card Games](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
-- [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
-- [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
-
-## Content Management Systems
-
-- [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
-- [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
-- [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
-- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
-- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
-- [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
-- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
-- [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
-- [Directus](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
-- [Plone](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
-
-## Hardware
-
-- [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
-- [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
-- [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
-- [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
-- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
-- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
-- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
-- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
-- [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
-- [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
-- [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
-
-## Business
-
-- [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
-- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
-- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
-- [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
-- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
-- [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
-- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
-- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
-- [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
-- [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
-- [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
-- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
-
-## Work
-
-- [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
-	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
-- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
-- [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
-- [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
-- [Programming Interviews](https://github.com/DopplerHQ/awesome-interview-questions#readme)
-- [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
-- [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
-- [Internships](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
-
-## Networking
-
-- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
-- [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
-- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
-- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
-- [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
-- [Scapy](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
-
-## Decentralized Systems
-
-- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
-- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
-- [Mastodon](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
-- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
-- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
-- [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
-- [Corda](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
-- [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
-- [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
-- [Golem](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
-- [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
-- [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
-- [ZeroNet](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
-- [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
-
-## Health and Social Science
-
-- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
-- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
-- [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
-- [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
-- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
-- [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
-- [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
-- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
-- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
-- [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
-
-## Events
-
-- [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
-- [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
-- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
-
-## Testing
-
-- [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
-- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
-- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
-- [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
-- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
-- [k6](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
-- [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
-- [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
-- [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
-
-## Miscellaneous
-
-- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
-- [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
-	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
-	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
-- [CSV](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
-- [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev#readme)
-- [Radio](https://github.com/kyleterry/awesome-radio#readme)
-- [Awesome](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
-- [Analytics](https://github.com/0xnr/awesome-analytics#readme)
-- [REST](https://github.com/marmelab/awesome-rest#readme)
-- [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd#readme)
-- [Services Engineering](https://github.com/mmcgrana/services-engineering#readme)
-- [Free for Developers](https://github.com/ripienaar/free-for-dev#readme)
-- [Answers](https://github.com/cyberglot/awesome-answers#readme) - Stack Overflow, Quora, etc.
-- [Sketch](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
-- [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
-- [Readme](https://github.com/matiassingers/awesome-readme#readme)
-- [GitHub Wiki](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
-- [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
-- [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
-- [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
-- [FOSS Production Apps](https://github.com/DataDaoDe/awesome-foss-apps#readme)
-- [Gulp](https://github.com/alferov/awesome-gulp#readme) - Task runner.
-- [AMA](https://github.com/sindresorhus/amas#readme) - Ask Me Anything.
-	- [Answers](https://github.com/stoeffel/awesome-ama-answers#readme)
-- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)
-- [OpenGL](https://github.com/eug/awesome-opengl#readme) - Cross-platform API for rendering 2D and 3D graphics.
-- [GraphQL](https://github.com/chentsulin/awesome-graphql#readme)
-- [Urban & Regional Planning](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
-- [Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
-- [Research Tools](https://github.com/emptymalei/awesome-research#readme)
-- [Data Visualization](https://github.com/javierluraschi/awesome-dataviz#readme)
-- [Microservices](https://github.com/mfornos/awesome-microservices#readme)
-- [Unicode](https://github.com/jagracey/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
-	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
-- [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme)
-- [Katas](https://github.com/gamontal/awesome-katas#readme)
-- [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme)
-- [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - For community-based and non-institutional scientists.
-- [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
-- [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
-- [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js CLI framework.
-- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
-- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - Typesetting language.
-- [Economics](https://github.com/antontarasenko/awesome-economics#readme) - An economist's starter kit.
-- [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
-- [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
-- [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
-- [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
-- [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
-- [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
-- [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)
-- [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - Dynamic tracing framework.
-- [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
-- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon and Pokémon GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
-- [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - Falsehoods programmers believe in.
-- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - Software development approach for complex needs by connecting the implementation to an evolving model.
-- [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - Self-tracking through technology.
-- [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) - Python-based config management system.
-- [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - For digital designers.
-- [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - Programming something expressive instead of something functional.
-- [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - Web apps that work without login.
-- [Free Software](https://github.com/johnjago/awesome-free-software#readme) - Free as in freedom.
-- [Framer](https://github.com/podo/awesome-framer#readme) - Prototyping interactive UI designs.
-- [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - Markup language.
-- [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) - Funny developer projects.
-- [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - Open Source eCommerce built with PHP.
-- [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - Graph drawing packages for TeX/LaTeX/ConTeXt.
-- [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) - Ad-free alternatives.
-- [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - Open-source monitoring system.
-- [Homematic](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
-- [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - Double-entry accounting on the command-line.
-- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
-- [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
-- [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
-- [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - Companies that offer their tools and services for free to open source projects.
-- [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - Create better and more consistent designs and experiences.
-- [Theravada](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
-- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
-- [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
-- [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
-- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
-- [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
-- [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
-- [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
-- [Board Games](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
-- [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
-- [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
-- [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
-- [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
-- [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-- [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
-- [Agriculture](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
-- [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
-- [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
-- [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
-- [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
-- [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
-- [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
-- [IRC](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
-- [Advertising](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
-- [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
-- [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
-- [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
-- [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
-- [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
-- [Ansible](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
-- [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
-- [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
-- [Veganism](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
-- [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
-- [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
-- [WebXR](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
-- [Computational Geometry](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
-- [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
-- [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
-- [Read the Docs](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
-- [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
-- [Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
-- [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
-- [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
-- [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
-- [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
-
-## Related
-
-- [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
-- [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
-- [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
-- [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
-- [Open Source Heroes - Awesome](https://opensource-heroes.com/awesome) - View Awesome lists with extra info like stars, last update, and license.
+<div align="center" dir="auto">
+	<b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关注</font></font><a href="https://twitter.com/awesome__re" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Awesome Twitter 帐户</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，了解新列表添加的更新。</font></font></b>
+</div>
+<br>
+<div align="center" dir="auto">
+	<b><a href="https://t.me/sindresorhuschat/70" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电报群</font></font></a></b>
+</div>
+<br>
+<p align="center" dir="auto">
+	<sub><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">只需输入即可</font></font><a href="https://awesome.re" rel="nofollow"><code>awesome.re</code></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">转到此处。</font><font style="vertical-align: inherit;">查看我的</font></font><a href="https://sindresorhus.com/apps" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用程序</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并在</font></font><a href="https://twitter.com/sindresorhus" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上关注我。</font></font></sub>
+</p>
+<br>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contents" class="anchor" aria-hidden="true" tabindex="-1" href="#contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内容</font></font></h2>
+<ul dir="auto">
+<li><a href="#platforms"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">平台</font></font></a></li>
+<li><a href="#programming-languages"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程语言</font></font></a></li>
+<li><a href="#front-end-development"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">前端开发</font></font></a></li>
+<li><a href="#back-end-development"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">后端开发</font></font></a></li>
+<li><a href="#computer-science"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机科学</font></font></a></li>
+<li><a href="#big-data"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大数据</font></font></a></li>
+<li><a href="#theory"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">理论</font></font></a></li>
+<li><a href="#books"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图书</font></font></a></li>
+<li><a href="#editors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编辑</font></font></a></li>
+<li><a href="#gaming"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赌博</font></font></a></li>
+<li><a href="#development-environment"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发环境</font></font></a></li>
+<li><a href="#entertainment"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">娱乐</font></font></a></li>
+<li><a href="#databases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库</font></font></a></li>
+<li><a href="#media"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">媒体</font></font></a></li>
+<li><a href="#learn"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习</font></font></a></li>
+<li><a href="#security"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全</font></font></a></li>
+<li><a href="#content-management-systems"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内容管理系统</font></font></a></li>
+<li><a href="#hardware"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">硬件</font></font></a></li>
+<li><a href="#business"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">商业</font></font></a></li>
+<li><a href="#work"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工作</font></font></a></li>
+<li><a href="#networking"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联网</font></font></a></li>
+<li><a href="#decentralized-systems"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">去中心化系统</font></font></a></li>
+<li><a href="#health-and-social-science"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">健康与社会科学</font></font></a></li>
+<li><a href="#events"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">活动</font></font></a></li>
+<li><a href="#testing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试</font></font></a></li>
+<li><a href="#miscellaneous"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">各种各样的</font></font></a></li>
+<li><a href="#related"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关的</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-platforms" class="anchor" aria-hidden="true" tabindex="-1" href="#platforms"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">平台</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/awesome-nodejs#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Chrome 的 V8 JavaScript 引擎构建的异步非阻塞事件驱动 JavaScript 运行时。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/bcoe/awesome-cross-platform-nodejs#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跨平台</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 在 Node.js 上编写跨平台代码。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/dypsilon/frontend-dev-bookmarks#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">前端开发</font></font></a></li>
+<li><a href="https://github.com/vsouza/awesome-ios#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iOS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 适用于 Apple 手机和平板电脑的移动操作系统。</font></font></li>
+<li><a href="https://github.com/JStumpp/awesome-android#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Android</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 由 Google 开发的移动操作系统。</font></font></li>
+<li><a href="https://github.com/weblancaster/awesome-IoT-hybrid#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">物联网和混合应用程序</font></font></a></li>
+<li><a href="https://github.com/sindresorhus/awesome-electron#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Electron</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 JavaScript/HTML/CSS 的跨平台本机桌面应用程序。</font></font></li>
+<li><a href="https://github.com/busterc/awesome-cordova#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cordova</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于混合应用程序的 JavaScript API。</font></font></li>
+<li><a href="https://github.com/jondot/awesome-react-native#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Native</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于编写适用于 iOS 和 Android 的本机渲染移动应用程序的 JavaScript 框架。</font></font></li>
+<li><a href="https://github.com/XamSome/awesome-xamarin#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Xamarin</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 移动应用程序开发 IDE、测试和分发。</font></font></li>
+<li><a href="https://github.com/inputsh/awesome-linux#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Linux</font></font></a>
+<ul dir="auto">
+<li><a href="https://github.com/Friz-zy/awesome-linux-containers#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">集装箱</font></font></a></li>
+<li><a href="https://github.com/zoidbergwill/awesome-ebpf#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">eBPF</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 虚拟机，允许您为 Linux 系统编写更高效、更强大的跟踪和监控。</font></font></li>
+<li><a href="https://github.com/PandaFoss/Awesome-Arch#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于 Arch 的项目</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 基于 Arch Linux 的 Linux 发行版和项目。</font></font></li>
+<li><a href="https://github.com/AppImage/awesome-appimage#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AppImage</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将应用程序打包在单个文件中，可在各种主流 Linux 发行版上运行。</font></font></li>
+</ul>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">macOS - Apple Mac 计算机的操作系统。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/agarrharr/awesome-macos-screensavers#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">屏保</font></font></a></li>
+<li><a href="https://github.com/jaywcjlove/awesome-mac#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用</font></font></a></li>
+<li><a href="https://github.com/serhii-londar/open-source-mac-os-apps#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源应用程序</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/yenchenlin/awesome-watchos#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">watchOS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Apple Watch 的操作系统。</font></font></li>
+<li><a href="https://github.com/deephacks/awesome-jvm#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虚拟机</font></font></a></li>
+<li><a href="https://github.com/mailtoharshit/awesome-salesforce#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">销售队伍</font></font></a></li>
+<li><a href="https://github.com/donnemartin/awesome-aws#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">亚马逊网络服务</font></font></a></li>
+<li><a href="https://github.com/Awesome-Windows/Awesome#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视窗</font></font></a></li>
+<li><a href="https://github.com/ipfs/awesome-ipfs#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IPFS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - P2P 超媒体协议。</font></font></li>
+<li><a href="https://github.com/fuse-compound/awesome-fuse#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fuse</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 移动开发工具。</font></font></li>
+<li><a href="https://github.com/ianstormtaylor/awesome-heroku#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Heroku</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 云平台即服务。</font></font></li>
+<li><a href="https://github.com/thibmaek/awesome-raspberry-pi#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Raspberry Pi</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 信用卡大小的计算机，旨在教孩子编程，但功能更多。</font></font></li>
+<li><a href="https://github.com/JesseTG/awesome-qt#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Qt</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 跨平台 GUI 应用程序框架。</font></font></li>
+<li><a href="https://github.com/fregante/Awesome-WebExtensions#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WebExtensions</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 跨浏览器扩展系统。</font></font></li>
+<li><a href="https://github.com/vitalets/awesome-smart-tv#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">智能电视</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 为不同的电视平台创建应用程序。</font></font></li>
+<li><a href="https://github.com/Kazhnuz/awesome-gnome#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GNOME</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 适用于 Linux 的简单且无干扰的桌面环境。</font></font></li>
+<li><a href="https://github.com/francoism90/awesome-kde#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KDE</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一个自由软件社区，致力于创建开放且用户友好的计算体验。</font></font></li>
+<li><a href="https://github.com/quozd/awesome-dotnet#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。网</font></font></a>
+<ul dir="auto">
+<li><a href="https://github.com/thangchung/awesome-dotnet-core#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">核</font></font></a></li>
+<li><a href="https://github.com/ironcev/awesome-roslyn#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Roslyn</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 适用于 C# 和 VB.NET 语言的开源编译器和代码分析 API。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/miguelmota/awesome-amazon-alexa#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">亚马逊 Alexa</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 虚拟家庭助理。</font></font></li>
+<li><a href="https://github.com/jonleibowitz/awesome-digitalocean#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DigitalOcean</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 为开发人员设计的云计算平台。</font></font></li>
+<li><a href="https://github.com/Solido/awesome-flutter#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flutter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Google 的移动 SDK，用于从用 Dart 编写的单个代码库构建本机 iOS 和 Android 应用程序。</font></font></li>
+<li><a href="https://github.com/frenck/awesome-home-assistant#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">家庭助理</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 开源家庭自动化，将本地控制和隐私放在首位。</font></font></li>
+<li><a href="https://github.com/victorshinya/awesome-ibmcloud#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IBM Cloud</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 面向开发人员和公司的云平台。</font></font></li>
+<li><a href="https://github.com/jthegedus/awesome-firebase#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firebase</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Google Cloud Platform 构建的应用程序开发平台。</font></font></li>
+<li><a href="https://github.com/fkromer/awesome-ros2#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人操作系统 2.0</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一组可帮助您构建机器人应用程序的软件库和工具。</font></font></li>
+<li><a href="https://github.com/adafruit/awesome-adafruitio#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Adafruit IO</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 可视化并存储来自任何设备的数据。</font></font></li>
+<li><a href="https://github.com/irazasyed/awesome-cloudflare#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cloudflare</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - CDN、DNS、DDoS 保护和站点安全。</font></font></li>
+<li><a href="https://github.com/ravirupareliya/awesome-actions-on-google#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Actions on Google</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Google Assistant 的开发者平台。</font></font></li>
+<li><a href="https://github.com/agucova/awesome-esp#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ESP</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 具有 WiFi 和广泛物联网应用的低成本微控制器。</font></font></li>
+<li><a href="https://github.com/denolib/awesome-deno#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Deno</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 V8 并用 Rust 构建的 JavaScript 和 TypeScript 的安全运行时。</font></font></li>
+<li><a href="https://github.com/balintkissdev/awesome-dos#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DOS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 x86 的个人计算机的操作系统，在 20 世纪 80 年代和 90 年代初流行。</font></font></li>
+<li><a href="https://github.com/nix-community/awesome-nix#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nix</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 适用于 Linux 和其他 Unix 系统的包管理器，使包管理可靠且可重复。</font></font></li>
+<li><a href="https://github.com/stn1slv/awesome-integration#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">集成</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 将不同的 IT 系统（组件）连接在一起，作为一个整体进行功能上的协作。</font></font></li>
+<li><a href="https://github.com/naimo84/awesome-nodered#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node-RED</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于将硬件设备、API 和在线服务连接在一起的编程工具。</font></font></li>
+<li><a href="https://github.com/zenitysec/awesome-low-code#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">低代码</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 允许业务专业人员在几乎没有编码技能的情况下自行满足他们的需求。</font></font></li>
+<li><a href="https://github.com/riderx/awesome-capacitor#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacitor</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于构建 Web Native 应用程序的跨平台开源运行时。</font></font></li>
+<li><a href="https://github.com/Esri/awesome-arcgis-developer#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ArcGIS Developer</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 为开发人员提供的地图和位置分析平台。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-programming-languages" class="anchor" aria-hidden="true" tabindex="-1" href="#programming-languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程语言</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/sorrycc/awesome-javascript#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JavaScript</font></font></a>
+<ul dir="auto">
+<li><a href="https://github.com/wbinnssmith/awesome-promises#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">承诺</font></font></a></li>
+<li><a href="https://github.com/standard/awesome-standard#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标准样式</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 样式指南和 linter。</font></font></li>
+<li><a href="https://github.com/bolshchikov/js-must-watch#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">必看讲座</font></font></a></li>
+<li><a href="https://github.com/loverajoel/jstips#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">尖端</font></font></a></li>
+<li><a href="https://github.com/Kikobeats/awesome-network-js#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络层</font></font></a></li>
+<li><a href="https://github.com/parro-it/awesome-micro-npm-packages#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">微型 npm 包</font></font></a></li>
+<li><a href="https://github.com/feross/awesome-mad-science#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mad Science npm Packages</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 存在的听起来不可能的项目。</font></font></li>
+<li><a href="https://github.com/maxogden/maintenance-modules#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">维护模块</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 用于 npm 包。</font></font></li>
+<li><a href="https://github.com/sindresorhus/awesome-npm#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">npm</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 包管理器。</font></font></li>
+<li><a href="https://github.com/avajs/awesome-ava#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AVA</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 测试运行程序。</font></font></li>
+<li><a href="https://github.com/dustinspecker/awesome-eslint#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ESLint</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Linter。</font></font></li>
+<li><a href="https://github.com/stoeffel/awesome-fp-js#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">函数式编程</font></font></a></li>
+<li><a href="https://github.com/sindresorhus/awesome-observables#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">观测值</font></font></a></li>
+<li><a href="https://github.com/RyanZim/awesome-npm-scripts#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">npm 脚本</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 任务运行程序。</font></font></li>
+<li><a href="https://github.com/30-seconds/30-seconds-of-code#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">30 Seconds of Code</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 您可以在 30 秒内理解的代码片段。</font></font></li>
+<li><a href="https://github.com/Richienb/awesome-ponyfills#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ponyfills</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 类似于 polyfill，但不覆盖本机 API。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/matteocrippa/awesome-swift#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Swift</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Apple 的编译编程语言，安全、现代、程序员友好且快速。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/hsavit1/Awesome-Swift-Education#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教育</font></font></a></li>
+<li><a href="https://github.com/uraimo/Awesome-Swift-Playgrounds#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游乐场</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/vinta/awesome-python#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 为可读性而设计的通用编程语言。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/timofurrer/awesome-asyncio#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Asyncio</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Python 3 中的异步 I/O。</font></font></li>
+<li><a href="https://github.com/faroit/awesome-python-scientific-audio#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">科学音频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 音频/音乐方面的科学研究。</font></font></li>
+<li><a href="https://github.com/adafruit/awesome-circuitpython#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CircuitPython</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于微控制器的 Python 版本。</font></font></li>
+<li><a href="https://github.com/krzjoa/awesome-python-data-science#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据科学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 数据分析和机器学习。</font></font></li>
+<li><a href="https://github.com/typeddjango/awesome-python-typing#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Typing</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Python 的可选静态类型。</font></font></li>
+<li><a href="https://github.com/mcauser/awesome-micropython#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MicroPython</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于微控制器的 Python 3 的精益且高效的实现。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/rust-unofficial/awesome-rust#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">锈</font></font></a>
+<ul dir="auto">
+<li><a href="https://github.com/pest-parser/awesome-pest#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pest</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 解析器生成器。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/krispo/awesome-haskell#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">哈斯克尔</font></font></a></li>
+<li><a href="https://github.com/passy/awesome-purescript#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">纯脚本</font></font></a></li>
+<li><a href="https://github.com/avelino/awesome-go#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">去</font></font></a></li>
+<li><a href="https://github.com/lauris/awesome-scala#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯卡拉</font></font></a>
+<ul dir="auto">
+<li><a href="https://github.com/tindzk/awesome-scala-native#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Scala Native</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 LLVM 优化 Scala 的提前编译器。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/markets/awesome-ruby#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">红宝石</font></font></a></li>
+<li><a href="https://github.com/razum2um/awesome-clojure#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">克洛尤尔</font></font></a></li>
+<li><a href="https://github.com/hantuzun/awesome-clojurescript#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Clojure脚本</font></font></a></li>
+<li><a href="https://github.com/h4cc/awesome-elixir#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">灵丹妙药</font></font></a></li>
+<li><a href="https://github.com/sporto/awesome-elm#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">榆树</font></font></a></li>
+<li><a href="https://github.com/drobakowski/awesome-erlang#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">埃尔兰</font></font></a></li>
+<li><a href="https://github.com/svaksha/Julia.jl#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Julia</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 高级动态编程语言，旨在满足高性能数值分析和计算科学的需求。</font></font></li>
+<li><a href="https://github.com/LewisJEllis/awesome-lua#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卢阿</font></font></a></li>
+<li><a href="https://github.com/inputsh/awesome-c#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C</font></font></a></li>
+<li><a href="https://github.com/fffaraz/awesome-cpp#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C/C++</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通用语言，偏向于系统编程和嵌入式、资源受限的软件。</font></font></li>
+<li><a href="https://github.com/qinwf/awesome-R#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">R</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于统计计算和图形的函数式编程语言和环境。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/iamericfletcher/awesome-r-learning-resources#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/dlang-community/awesome-d#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">D</font></font></a></li>
+<li><a href="https://github.com/CodyReichert/awesome-cl#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Common Lisp</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 强大的动态多范式语言，有助于迭代和交互式开发。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/GustavBertram/awesome-common-lisp-learning#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/hachiojipm/awesome-perl#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">珀尔</font></font></a></li>
+<li><a href="https://github.com/kdabir/awesome-groovy#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">格罗维</font></font></a></li>
+<li><a href="https://github.com/yissachar/awesome-dart#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">镖</font></font></a></li>
+<li><a href="https://github.com/akullpp/awesome-java#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Java</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 流行的安全面向对象语言，旨在灵活地“编写一次，随处运行”。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/eleventigers/awesome-rxjava#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">接收Java</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/KotlinBy/awesome-kotlin#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">科特林</font></font></a></li>
+<li><a href="https://github.com/ocaml-community/awesome-ocaml#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">奥卡米尔</font></font></a></li>
+<li><a href="https://github.com/seancoyne/awesome-coldfusion#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">冷聚变</font></font></a></li>
+<li><a href="https://github.com/rabbiabram/awesome-fortran#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">福特兰语言</font></font></a></li>
+<li><a href="https://github.com/ziadoz/awesome-php#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PHP</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 服务器端脚本语言。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/jakoch/awesome-composer#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作曲家</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 包管理器。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/Fr0sT-Brutal/awesome-pascal#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">帕斯卡</font></font></a></li>
+<li><a href="https://github.com/ahkscript/awesome-AutoHotkey#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动热键</font></font></a></li>
+<li><a href="https://github.com/J2TeaM/awesome-AutoIt#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动它</font></font></a></li>
+<li><a href="https://github.com/veelenga/awesome-crystal#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">水晶</font></font></a></li>
+<li><a href="https://github.com/sfischer13/awesome-frege#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Frege</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于 JVM 的 Haskell。</font></font></li>
+<li><a href="https://github.com/onqtam/awesome-cmake#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMake</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 构建、测试和打包软件。</font></font></li>
+<li><a href="https://github.com/robinrodricks/awesome-actionscript3#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ActionScript 3</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 针对 Adob&ZeroWidthSpace;&ZeroWidthSpace;e AIR 的面向对象语言。</font></font></li>
+<li><a href="https://github.com/sfischer13/awesome-eta#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eta</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - JVM 的函数式编程语言。</font></font></li>
+<li><a href="https://github.com/joaomilho/awesome-idris#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Idris</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通用纯函数式编程语言，具有受 Haskell 和 ML 影响的依赖类型。</font></font></li>
+<li><a href="https://github.com/ohenley/awesome-ada#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ada/SPARK</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 现代编程语言，专为可靠性和效率至关重要的大型、寿命长的应用程序而设计。</font></font></li>
+<li><a href="https://github.com/ebraminio/awesome-qsharp#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Q#</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于表达量子算法的特定领域编程语言。</font></font></li>
+<li><a href="https://github.com/koolamusic/awesome-imba#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Imba</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 受 Ruby 和 Python 启发的编程语言，可编译为高性能 JavaScript。</font></font></li>
+<li><a href="https://github.com/desiderantes/awesome-vala#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vala</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 编程语言，旨在充分利用 GLib 和 GNOME 生态系统，同时保持 C 代码的速度。</font></font></li>
+<li><a href="https://github.com/coq-community/awesome-coq#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coq</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于编程和规范的正式语言和环境，有助于机器检查证明的交互式开发。</font></font></li>
+<li><a href="https://github.com/vlang/awesome-v#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">V</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 简单、快速、安全的编译语言，用于开发可维护的软件。</font></font></li>
+<li><a href="https://github.com/catdevnull/awesome-zig#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Zig</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通用编程语言和工具链，用于维护健壮、最佳和可重用的软件。</font></font></li>
+<li><a href="https://github.com/MystenLabs/awesome-move#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Move</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于编写安全智能合约的领域特定编程语言。</font></font></li>
+<li><a href="https://github.com/angrykoala/awesome-esolangs#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Esolangs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 为实验或笑话而不是实际使用而设计的编程语言。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-front-end-development" class="anchor" aria-hidden="true" tabindex="-1" href="#front-end-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">前端开发</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/addyosmani/es6-tools#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ES6 工具</font></font></a></li>
+<li><a href="https://github.com/davidsonfellipe/awesome-wpo#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网页性能优化</font></font></a></li>
+<li><a href="https://github.com/lvwzhen/tools#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络工具</font></font></a></li>
+<li><a href="https://github.com/awesome-css-group/awesome-css#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 指定 HTML 元素如何在屏幕上显示的样式表语言。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/addyosmani/critical-path-css-tools#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关键路径工具</font></font></a></li>
+<li><a href="https://github.com/davidtheclark/scalable-css-reading-list#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可扩展性</font></font></a></li>
+<li><a href="https://github.com/AllThingsSmitty/must-watch-css#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">必看演讲</font></font></a></li>
+<li><a href="https://github.com/AllThingsSmitty/css-protips#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">普罗普斯</font></font></a></li>
+<li><a href="https://github.com/troxler/awesome-css-frameworks#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构架</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/enaqx/awesome-react#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于构建用户界面的 JavaScript 库。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/expede/awesome-relay#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Relay</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于构建数据驱动的 React 应用程序的框架。</font></font></li>
+<li><a href="https://github.com/glauberfc/awesome-react-hooks#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">React Hooks</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 允许您使用状态和其他 React 功能，而无需编写类。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/web-padawan/awesome-web-components#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络组件</font></font></a></li>
+<li><a href="https://github.com/Granze/awesome-polymer#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Polymer</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于开发 Web 组件的 JavaScript 库。</font></font></li>
+<li><a href="https://github.com/PatrickJS/awesome-angular#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Angular</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 应用程序框架。</font></font></li>
+<li><a href="https://github.com/sadcitizen/awesome-backbone#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主干</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 应用程序框架。</font></font></li>
+<li><a href="https://github.com/diegocard/awesome-html5#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HTML5</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于网站和网络应用程序的标记语言。</font></font></li>
+<li><a href="https://github.com/willianjusten/awesome-svg#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SVG</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 XML 的矢量图像格式。</font></font></li>
+<li><a href="https://github.com/raphamorim/awesome-canvas#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">帆布</font></font></a></li>
+<li><a href="https://github.com/dnbard/awesome-knockout#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KnockoutJS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - JavaScript 库。</font></font></li>
+<li><a href="https://github.com/petk/awesome-dojo#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dojo Toolkit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - JavaScript 工具包。</font></font></li>
+<li><a href="https://github.com/NoahBuscher/Inspire#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">灵感</font></font></a></li>
+<li><a href="https://github.com/ember-community-russia/awesome-ember#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ember</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 应用程序框架。</font></font></li>
+<li><a href="https://github.com/wasabeef/awesome-android-ui#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安卓用户界面</font></font></a></li>
+<li><a href="https://github.com/cjwirth/awesome-ios-ui#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iOS 界面</font></font></a></li>
+<li><a href="https://github.com/Urigo/awesome-meteor#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流星</font></font></a></li>
+<li><a href="https://github.com/sturobson/BEM-resources#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">边界元法</font></font></a></li>
+<li><a href="https://github.com/afonsopacifer/awesome-flexbox#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">弹性盒</font></font></a></li>
+<li><a href="https://github.com/deanhume/typography#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网页版式</font></font></a></li>
+<li><a href="https://github.com/brunopulis/awesome-a11y#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络辅助功能</font></font></a></li>
+<li><a href="https://github.com/sachin1092/awesome-material#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">材料设计</font></font></a></li>
+<li><a href="https://github.com/wbkd/awesome-d3#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">D3</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于生成动态、交互式数据可视化的库。</font></font></li>
+<li><a href="https://github.com/jonathandion/awesome-emails#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子邮件</font></font></a></li>
+<li><a href="https://github.com/petk/awesome-jquery#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">jQuery</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 易于使用的 JavaScript 库进行 DOM 操作。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">尖端</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/notthetup/awesome-webaudio#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络音频</font></font></a></li>
+<li><a href="https://github.com/pazguille/offline-first#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">离线优先</font></font></a></li>
+<li><a href="https://github.com/agarrharr/awesome-static-website-services#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">静态网站服务</font></font></a></li>
+<li><a href="https://github.com/cyclejs-community/awesome-cyclejs#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cycle.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 函数式和反应式 JavaScript 框架。</font></font></li>
+<li><a href="https://github.com/dok/awesome-text-editing#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文本编辑</font></font></a></li>
+<li><a href="https://github.com/fliptheweb/motion-ui-design#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">动感UI设计</font></font></a></li>
+<li><a href="https://github.com/vuejs/awesome-vue#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vue.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 应用程序框架。</font></font></li>
+<li><a href="https://github.com/sadcitizen/awesome-marionette#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Marionette.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 应用程序框架。</font></font></li>
+<li><a href="https://github.com/aurelia-contrib/awesome-aurelia#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aurelia</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 应用程序框架。</font></font></li>
+<li><a href="https://github.com/zingchart/awesome-charting#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">制图</font></font></a></li>
+<li><a href="https://github.com/candelibas/awesome-ionic#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">离子框架2</font></font></a></li>
+<li><a href="https://github.com/ChromeDevTools/awesome-chrome-devtools#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chrome 开发工具</font></font></a></li>
+<li><a href="https://github.com/jdrgomes/awesome-postcss#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PostCSS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - CSS 工具。</font></font></li>
+<li><a href="https://github.com/nikgraf/awesome-draft-js#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Draft.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - React 的富文本编辑器框架。</font></font></li>
+<li><a href="https://github.com/TalAter/awesome-service-workers#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">服务人员</font></font></a></li>
+<li><a href="https://github.com/TalAter/awesome-progressive-web-apps#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">渐进式网络应用程序</font></font></a></li>
+<li><a href="https://github.com/choojs/awesome-choo#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">choo</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 应用程序框架。</font></font></li>
+<li><a href="https://github.com/brillout/awesome-redux#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Redux</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - JavaScript 应用程序的状态容器。</font></font></li>
+<li><a href="https://github.com/browserify/awesome-browserify#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Browserify</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 模块捆绑器。</font></font></li>
+<li><a href="https://github.com/Famolus/awesome-sass#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sass</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - CSS 预处理器。</font></font></li>
+<li><a href="https://github.com/websemantics/awesome-ant-design#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ant Design</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 企业级 UI 设计语言。</font></font></li>
+<li><a href="https://github.com/LucasBassetti/awesome-less#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Less</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - CSS 预处理器。</font></font></li>
+<li><a href="https://github.com/sjfricke/awesome-webgl#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WebGL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于渲染 3D 图形的 JavaScript API。</font></font></li>
+<li><a href="https://github.com/preactjs/awesome-preact#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Preact</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 应用程序框架。</font></font></li>
+<li><a href="https://github.com/jbmoelker/progressive-enhancement-resources#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">渐进增强</font></font></a></li>
+<li><a href="https://github.com/unicodeveloper/awesome-nextjs#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Next.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 服务器渲染 React 应用程序的框架。</font></font></li>
+<li><a href="https://github.com/web-padawan/awesome-lit#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">lit</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于使用声明性模板系统构建 Web 组件的库。</font></font></li>
+<li><a href="https://github.com/automata/awesome-jamstack#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JAMstack</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于客户端 JavaScript、可重用 API 和预构建标记的现代 Web 开发架构。</font></font></li>
+<li><a href="https://github.com/henrikwirth/awesome-wordpress-gatsby#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WordPress-Gatsby</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 以 WordPress 作为后端、Gatsby 作为前端的 Web 开发技术堆栈。</font></font></li>
+<li><a href="https://github.com/myshov/awesome-mobile-web-development#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动网络开发</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 创建出色的移动网络体验。</font></font></li>
+<li><a href="https://github.com/lauthieb/awesome-storybook#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Storybook</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - UI 组件的开发环境。</font></font></li>
+<li><a href="https://github.com/AdrienTorris/awesome-blazor#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Blazor</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 C#/Razor 和 HTML 的 .NET Web 框架，通过 WebAssembly 在浏览器中运行。</font></font></li>
+<li><a href="https://github.com/csabapalfi/awesome-pagespeed-metrics#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PageSpeed Metrics</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 帮助了解页面速度和用户体验的指标。</font></font></li>
+<li><a href="https://github.com/aniftyco/awesome-tailwindcss#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tailwind CSS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于快速 UI 开发的实用优先 CSS 框架。</font></font></li>
+<li><a href="https://github.com/seed-rs/awesome-seed-rs#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Seed</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于创建在 WebAssembly 中运行的 Web 应用程序的 Rust 框架。</font></font></li>
+<li><a href="https://github.com/pajaydev/awesome-web-performance-budget#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Web 性能预算</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 确保网站某些性能指标的技术。</font></font></li>
+<li><a href="https://github.com/sergey-pimenov/awesome-web-animation#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网页动画</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 使用 JavaScript、CSS、SVG 等在浏览器中制作动画。</font></font></li>
+<li><a href="https://github.com/jetli/awesome-yew#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Yew</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 受 Elm 和 React 启发的 Rust 框架，用于使用 WebAssembly 创建多线程前端 Web 应用程序.</font></font></li>
+<li><a href="https://github.com/nadunindunil/awesome-material-ui#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Material-UI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Material Design React 组件可实现更快、更轻松的 Web 开发。</font></font></li>
+<li><a href="https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Web 应用程序的构建块</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 要集成到 Web 应用程序中的独立功能。</font></font></li>
+<li><a href="https://github.com/TheComputerM/awesome-svelte#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Svelte</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 应用程序框架。</font></font></li>
+<li><a href="https://github.com/klaufel/awesome-design-systems#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设计系统</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 可重用组件的集合，以确保一致性和速度的规则为指导。</font></font></li>
+<li><a href="https://github.com/innocenzi/awesome-inertiajs#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inertia.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 无需构建 API 即可制作单页应用程序。</font></font></li>
+<li><a href="https://github.com/mdbootstrap/awesome-mdbootstrap#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MDBootstrap</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于快速构建网站的模板、布局、组件和小部件。</font></font></li>
+<li><a href="https://github.com/master-co/awesome-master-css#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Master CSS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一种具有增强语法的虚拟 CSS 语言。</font></font></li>
+<li><a href="https://github.com/shopify/awesome-hydrogen#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hydrogen</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 React 构建 Shopify 店面的边缘优先框架。</font></font></li>
+<li><a href="https://github.com/thoughtspile/awesome-tiny-js#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tiny JS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 带有依赖项的前端库，大小为 2 kB。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-back-end-development" class="anchor" aria-hidden="true" tabindex="-1" href="#back-end-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">后端开发</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/mjhea0/awesome-flask#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flask</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Python 框架。</font></font></li>
+<li><a href="https://github.com/veggiemonk/awesome-docker#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">码头工人</font></font></a></li>
+<li><a href="https://github.com/iJackUA/awesome-vagrant#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vagrant</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 自动化虚拟机环境。</font></font></li>
+<li><a href="https://github.com/uralbash/awesome-pyramid#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pyramid</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Python 框架。</font></font></li>
+<li><a href="https://github.com/PerfectCarl/awesome-play1#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Play1框架</font></font></a></li>
+<li><a href="https://github.com/friendsofcake/awesome-cakephp#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CakePHP</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - PHP 框架。</font></font></li>
+<li><a href="https://github.com/sitepoint-editors/awesome-symfony#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Symfony</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - PHP 框架。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/pehapkari/awesome-symfony-education#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教育</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/chiraggude/awesome-laravel#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laravel</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - PHP 框架。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/fukuball/Awesome-Laravel-Education#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教育</font></font></a></li>
+<li><a href="https://github.com/livewire/awesome-tall-stack#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TALL Stack</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 全栈开发解决方案，具有 Laravel 社区构建的库。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/gramantin/awesome-rails#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rails</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Ruby 的 Web 应用程序框架。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/hothero/awesome-rails-gem#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">宝石</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 包裹。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/phalcon/awesome-phalcon#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Phalcon</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - PHP 框架。</font></font></li>
+<li><a href="https://github.com/phanan/htaccess#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有用的</font></font><code>.htaccess</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">片段</font></font></a></li>
+<li><a href="https://github.com/fcambus/nginx-resources#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">nginx</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Web 服务器。</font></font></li>
+<li><a href="https://github.com/stve/awesome-dropwizard#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dropwizard</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Java 框架。</font></font></li>
+<li><a href="https://github.com/ramitsurana/awesome-kubernetes#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kubernetes</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 自动化 Linux 容器操作的开源平台。</font></font></li>
+<li><a href="https://github.com/unicodeveloper/awesome-lumen#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lumen</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - PHP 微框架。</font></font></li>
+<li><a href="https://github.com/pmuens/awesome-serverless#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无服务器框架</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 无服务器计算和无服务器架构。</font></font></li>
+<li><a href="https://github.com/PhantomYdn/awesome-wicket#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache Wicket</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Java Web 应用程序框架。</font></font></li>
+<li><a href="https://github.com/vert-x3/vertx-awesome#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vert.x</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于在 JVM 上构建反应式应用程序的工具包。</font></font></li>
+<li><a href="https://github.com/shuaibiyy/awesome-terraform#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Terraform</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于构建、更改和版本控制基础设施的工具。</font></font></li>
+<li><a href="https://github.com/vapor-community/awesome-vapor#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vapor</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Swift 中的服务器端开发.</font></font></li>
+<li><a href="https://github.com/ucg8j/awesome-dash#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dash</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Python Web 应用程序框架。</font></font></li>
+<li><a href="https://github.com/mjhea0/awesome-fastapi#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FastAPI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Python Web 应用程序框架。</font></font></li>
+<li><a href="https://github.com/kolomied/awesome-cdk#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CDK</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于在代码中定义云基础设施的开源软件开发框架。</font></font></li>
+<li><a href="https://github.com/kdeldycke/awesome-iam#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IAM</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用户帐户、身份验证和授权。</font></font></li>
+<li><a href="https://github.com/nekofar/awesome-slim#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Slim</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - PHP 框架。</font></font></li>
+<li><a href="https://github.com/gofiber/awesome-fiber#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fiber</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 构建在 Fasthttp 之上的 Web 框架，Fasthttp 是 Go 最快的 HTTP 引擎。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-computer-science" class="anchor" aria-hidden="true" tabindex="-1" href="#computer-science"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机科学</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/prakhar1989/awesome-courses#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大学课程</font></font></a></li>
+<li><a href="https://github.com/academic/awesome-datascience#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据科学</font></font></a>
+<ul dir="auto">
+<li><a href="https://github.com/siboehm/awesome-learn-datascience#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教程</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/josephmisiti/awesome-machine-learning#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习</font></font></a>
+<ul dir="auto">
+<li><a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教程</font></font></a></li>
+<li><a href="https://github.com/arbox/machine-learning-with-ruby#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ML with Ruby</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 Ruby 学习、实现和应用机器学习。</font></font></li>
+<li><a href="https://github.com/likedan/Awesome-CoreML-Models#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Core ML Models</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Apple 机器学习框架的模型。</font></font></li>
+<li><a href="https://github.com/h2oai/awesome-h2o#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">H2O</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用 Ja&ZeroWidthSpace;&ZeroWidthSpace;va 编写的开源分布式机器学习平台，具有 R、Python 和 Scala 中的 API。</font></font></li>
+<li><a href="https://github.com/SE-ML/awesome-seml#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习软件工程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 从实验到生产级机器学习。</font></font></li>
+<li><a href="https://github.com/georgezouq/awesome-ai-in-finance#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">金融中的人工智能</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 通过机器学习解决金融问题。</font></font></li>
+<li><a href="https://github.com/n2cholas/awesome-jax#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JAX</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 自动微分和 XLA 编译结合在一起，用于高性能机器学习研究。</font></font></li>
+<li><a href="https://github.com/altamiracorp/awesome-xai#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">XAI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 为机器学习方法提供洞察、解释和可解释性。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/edobashira/speech-language-processing#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语音和自然语言处理</font></font></a>
+<ul dir="auto">
+<li><a href="https://github.com/dav009/awesome-spanish-nlp#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">西班牙语</font></font></a></li>
+<li><a href="https://github.com/arbox/nlp-with-ruby#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NLP 与 Ruby</font></font></a></li>
+<li><a href="https://github.com/seriousran/awesome-qa#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问答</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 使用机器以自然语言提问和回答的科学。</font></font></li>
+<li><a href="https://github.com/accelerated-text/awesome-nlg#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自然语言生成</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 生成数据到文本、对话代理和叙述生成应用程序中使用的文本。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/theimpossibleastronaut/awesome-linguistics#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语言学</font></font></a></li>
+<li><a href="https://github.com/sobolevn/awesome-cryptography#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密码学</font></font></a>
+<ul dir="auto">
+<li><a href="https://github.com/pFarb/awesome-crypto-papers#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论文</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 非密码学家使用密码学的理论基础。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/jbhuang0604/awesome-computer-vision#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机视觉</font></font></a></li>
+<li><a href="https://github.com/ChristosChristofidis/awesome-deep-learning#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度学习</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 神经网络。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/jtoy/awesome-tensorflow#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TensorFlow</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 机器智能库。</font></font></li>
+<li><a href="https://github.com/aaronhma/awesome-tensorflow-js#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TensorFlow.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于训练和部署模型的 WebGL 加速机器学习 JavaScript 库。</font></font></li>
+<li><a href="https://github.com/margaretmz/awesome-tensorflow-lite#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TensorFlow Lite</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 优化 TensorFlow 模型以实现设备上机器学习的框架。</font></font></li>
+<li><a href="https://github.com/terryum/awesome-deep-learning-papers#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">论文</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 被引用最多的深度学习论文。</font></font></li>
+<li><a href="https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教育</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/kjw0612/awesome-deep-vision#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深视</font></font></a></li>
+<li><a href="https://github.com/ossu/computer-science#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源协会大学</font></font></a></li>
+<li><a href="https://github.com/lucasviola/awesome-functional-programming#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">函数式编程</font></font></a></li>
+<li><a href="https://github.com/dspinellis/awesome-msr#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实证软件工程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 软件系统的循证研究。</font></font></li>
+<li><a href="https://github.com/analysis-tools-dev/static-analysis#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">静态分析和代码质量</font></font></a></li>
+<li><a href="https://github.com/harpribot/awesome-information-retrieval#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息检索</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 学习开发自己的搜索引擎。</font></font></li>
+<li><a href="https://github.com/desireevl/awesome-quantum-computing#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子计算</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 在量子计算机上利用量子力学和量子位的计算。</font></font></li>
+<li><a href="https://github.com/mostafatouny/awesome-theoretical-computer-science#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">理论计算机科学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 计算机科学和纯数学的相互作用，其特点是强调数学的严谨性和技术。</font></font></li>
+<li><a href="https://github.com/jyguyomarch/awesome-conversational-ai#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对话式人工智能</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 构建出色的聊天机器人和数字助理。</font></font></li>
+<li><a href="https://github.com/steven2358/awesome-generative-ai#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生成式人工智能</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 自动生成各种文本、图像和音频格式的独特内容。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-big-data" class="anchor" aria-hidden="true" tabindex="-1" href="#big-data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大数据</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/0xnr/awesome-bigdata#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大数据</font></font></a></li>
+<li><a href="https://github.com/awesomedata/awesome-public-datasets#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公共数据集</font></font></a></li>
+<li><a href="https://github.com/youngwookim/awesome-hadoop#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hadoop</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于分布式存储和处理超大型数据集的框架。</font></font></li>
+<li><a href="https://github.com/igorbarinov/awesome-data-engineering#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据工程</font></font></a></li>
+<li><a href="https://github.com/manuzhang/awesome-streaming#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流媒体</font></font></a></li>
+<li><a href="https://github.com/awesome-spark/awesome-spark#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache Spark</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于大规模数据处理的统一引擎。</font></font></li>
+<li><a href="https://github.com/ambster-public/awesome-qlik#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Qlik</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于数据可视化、分析和报告应用程序的商业智能平台。</font></font></li>
+<li><a href="https://github.com/sduff/awesome-splunk#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Splunk</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于实时搜索、监控和分析结构化和非结构化机器生成的大数据的平台。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-theory" class="anchor" aria-hidden="true" tabindex="-1" href="#theory"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">理论</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/papers-we-love/papers-we-love#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们喜欢的论文</font></font></a></li>
+<li><a href="https://github.com/JanVanRyswyck/awesome-talks#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">会谈</font></font></a></li>
+<li><a href="https://github.com/tayllan/awesome-algorithms#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">算法</font></font></a>
+<ul dir="auto">
+<li><a href="https://github.com/gaerae/awesome-algorithms-education#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教育</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——学习和实践。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/enjalot/algovis#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">算法可视化</font></font></a></li>
+<li><a href="https://github.com/owainlewis/awesome-artificial-intelligence#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能</font></font></a></li>
+<li><a href="https://github.com/marcobiedermann/search-engine-optimization#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">搜索引擎优化</font></font></a></li>
+<li><a href="https://github.com/lnishan/awesome-competitive-programming#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">竞争性编程</font></font></a></li>
+<li><a href="https://github.com/rossant/awesome-math#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数学</font></font></a></li>
+<li><a href="https://github.com/passy/awesome-recursion-schemes#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">递归方案</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 遍历嵌套数据结构。</font></font></li>
+<li><a href="https://github.com/erwanlemerrer/awesome-audit-algorithms#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">审核算法</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 算法的算法审核。</font></font></li>
+<li><a href="https://github.com/YuzheSHI/awesome-agi-cocosci#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AGI &amp; CoCoSci</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通用人工智能 (AGI) 和计算认知科学 (CoCoSci) 的交互。</font></font></li>
+<li><a href="https://github.com/sellisd/awesome-complexity#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复杂系统</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 研究具有多个相互作用部分和涌现属性的系统的科学领域。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-books" class="anchor" aria-hidden="true" tabindex="-1" href="#books"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图书</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/EbookFoundation/free-programming-books#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">免费编程书籍</font></font></a></li>
+<li><a href="https://github.com/dariubs/GoBooks#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">去书店</font></font></a></li>
+<li><a href="https://github.com/RomanTsegelskyi/rbooks#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">R 书籍</font></font></a></li>
+<li><a href="https://github.com/hackerkid/Mind-Expanding-Books#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拓展思维的书籍</font></font></a></li>
+<li><a href="https://github.com/TalAter/awesome-book-authoring#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">书籍创作</font></font></a></li>
+<li><a href="https://github.com/sger/ElixirBooks#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">长生不老药书</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-editors" class="anchor" aria-hidden="true" tabindex="-1" href="#editors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编辑</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/dreikanter/sublime-bookmarks#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">崇高的文字</font></font></a></li>
+<li><a href="https://github.com/mhinz/vim-galore#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">维姆</font></font></a></li>
+<li><a href="https://github.com/rockerBOO/awesome-neovim#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Neovim</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> -Vim-fork 专注于可扩展性和可用性。</font></font></li>
+<li><a href="https://github.com/emacs-tw/awesome-emacs#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Emacs</font></font></a></li>
+<li><a href="https://github.com/mehcode/awesome-atom#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Atom</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 开源且可破解的文本编辑器。</font></font></li>
+<li><a href="https://github.com/viatsko/awesome-vscode#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Visual Studio Code</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 跨平台开源文本编辑器。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-gaming" class="anchor" aria-hidden="true" tabindex="-1" href="#gaming"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赌博</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/ellisonleao/magictools#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游戏开发</font></font></a></li>
+<li><a href="https://github.com/hzoo/awesome-gametalks#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游戏讲座</font></font></a></li>
+<li><a href="https://github.com/godotengine/awesome-godot#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Godot</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 游戏引擎。</font></font></li>
+<li><a href="https://github.com/michelpereira/awesome-open-source-games#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源游戏</font></font></a></li>
+<li><a href="https://github.com/RyanNielson/awesome-unity#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unity</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 游戏引擎。</font></font></li>
+<li><a href="https://github.com/hkirat/awesome-chess#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">棋</font></font></a></li>
+<li><a href="https://github.com/love2d-community/awesome-love2d#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LÖVE</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 游戏引擎。</font></font></li>
+<li><a href="https://github.com/pico-8/awesome-PICO-8#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PICO-8</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 幻想控制台。</font></font></li>
+<li><a href="https://github.com/gbdev/awesome-gbdev#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游戏机开发</font></font></a></li>
+<li><a href="https://github.com/ConstructCommunity/awesome-construct#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构造 2</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 游戏引擎。</font></font></li>
+<li><a href="https://github.com/stetso/awesome-gideros#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gideros</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 游戏引擎。</font></font></li>
+<li><a href="https://github.com/bs-community/awesome-minecraft#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Minecraft</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 沙盒视频游戏。</font></font></li>
+<li><a href="https://github.com/tomodachi94/awesome-computercraft#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ComputerCraft</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 添加可编程计算机的 Minecraft 模组。</font></font></li>
+<li><a href="https://github.com/leomaurodesenv/game-datasets#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游戏数据集</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 游戏中人工智能的材料和数据集。</font></font></li>
+<li><a href="https://github.com/Dvergar/awesome-haxe-gamedev#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Haxe 游戏开发</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 一种高级强类型编程语言，用于生成跨平台本机代码。</font></font></li>
+<li><a href="https://github.com/rafaskb/awesome-libgdx#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">libGDX</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Java 游戏框架。</font></font></li>
+<li><a href="https://github.com/playcanvas/awesome-playcanvas#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PlayCanvas</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 游戏引擎。</font></font></li>
+<li><a href="https://github.com/radek-sprta/awesome-game-remakes#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游戏重制版</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 积极维护开源游戏重制版。</font></font></li>
+<li><a href="https://github.com/flame-engine/awesome-flame#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flame</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Flutter 的游戏引擎。</font></font></li>
+<li><a href="https://github.com/mhxion/awesome-discord-communities#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 社区</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 与朋友和社区聊天。</font></font></li>
+<li><a href="https://github.com/tobiasvl/awesome-chip-8#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CHIP-8</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 70 年代的虚拟电脑游戏机。</font></font></li>
+<li><a href="https://github.com/michelpereira/awesome-games-of-coding#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编码游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 通过制作游戏来学习编程语言。</font></font></li>
+<li><a href="https://github.com/strift/awesome-esports#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子竞技</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 作为一项运动的电子游戏。</font></font></li>
+<li><a href="https://github.com/notpresident35/awesome-learn-gamedev#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习 Gamedev</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 视频游戏创作工艺。</font></font></li>
+<li><a href="https://github.com/stevinz/awesome-game-engine-dev#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游戏引擎开发</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 构建软件以加速游戏创建。</font></font></li>
+<li><a href="https://github.com/bytecauldron/awesome-gamemaker#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GameMaker</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 游戏引擎。</font></font></li>
+<li><a href="https://github.com/vhladiienko/awesome-game-production#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游戏制作</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 领导视频游戏从概念到发布的设计、开发、测试和发行过程。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-development-environment" class="anchor" aria-hidden="true" tabindex="-1" href="#development-environment"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发环境</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/quick-look-plugins#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速查看插件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 适用于 macOS。</font></font></li>
+<li><a href="https://github.com/jondot/awesome-devenv#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发环境</font></font></a></li>
+<li><a href="https://github.com/webpro/awesome-dotfiles#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">点文件</font></font></a></li>
+<li><a href="https://github.com/alebcay/awesome-shell#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">壳</font></font></a></li>
+<li><a href="https://github.com/jorgebucaran/awsm.fish#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fish</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用户友好的 shell。</font></font></li>
+<li><a href="https://github.com/agarrharr/awesome-cli-apps#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令行应用程序</font></font></a></li>
+<li><a href="https://github.com/unixorn/awesome-zsh-plugins#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ZSH 插件</font></font></a></li>
+<li><a href="https://github.com/phillipadsmith/awesome-github#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Git 存储库的托管服务。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浏览器扩展</font></font></a></li>
+<li><a href="https://github.com/tiimgreen/github-cheat-sheet#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">备忘单</font></font></a></li>
+<li><a href="https://github.com/matchai/awesome-pinned-gists#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pinned Gists</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - GitHub 个人资料的动态固定要点。</font></font></li>
+</ul>
+</li>
+<li><a href="https://github.com/arslanbilal/git-cheat-sheet#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Git 备忘单和 Git 流程</font></font></a></li>
+<li><a href="https://github.com/git-tips/tips#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Git 技巧</font></font></a></li>
+<li><a href="https://github.com/stevemao/awesome-git-addons#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Git 附加组件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 增强</font></font><code>git</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CLI。</font></font></li>
+<li><a href="https://github.com/compscilauren/awesome-git-hooks#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Git Hooks</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于在工作流程中自动执行任务的脚本</font></font><code>git</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+<li><a href="https://github.com/moul/awesome-ssh#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SSH</font></font></a></li>
+<li><a href="https://github.com/tvvocold/FOSS-for-Dev#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">面向开发人员的自由开源软件</font></font></a></li>
+<li><a href="https://github.com/bnb/awesome-hyper#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hyper</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于网络技术构建的跨平台终端应用程序。</font></font></li>
+<li><a href="https://github.com/janikvonrotz/awesome-powershell#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PowerShell</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 跨平台面向对象的 shell。</font></font></li>
+<li><a href="https://github.com/alfred-workflows/awesome-alfred-workflows#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alfred Workflows</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 适用于 macOS 的生产力应用程序。</font></font></li>
+<li><a href="https://github.com/k4m4/terminals-are-sexy#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">终端很性感</font></font></a></li>
+<li><a href="https://github.com/sdras/awesome-actions#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub Actions</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 创建任务以自动化您的工作流程并与 GitHub 上的其他人共享。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-entertainment" class="anchor" aria-hidden="true" tabindex="-1" href="#entertainment"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">娱乐</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/sindresorhus/awesome-scifi#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">科幻小说</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 科幻小说。</font></font></li>
+<li><a href="https://github.com/RichardLitt/awesome-fantasy#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">幻想</font></font></a></li>
+<li><a href="https://github.com/ayr-ton/awesome-geek-podcasts#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">播客</font></font></a></li>
+<li><a href="https://github.com/zudochkin/awesome-newsletters#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子邮件通讯</font></font></a></li>
+<li><a href="https://github.com/victorlaerte/awesome-it-quotes#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IT行情</font></font></a></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-databases" class="anchor" aria-hidden="true" tabindex="-1" href="#databases"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/numetriclabz/awesome-db#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库</font></font></a></li>
+<li><a href="https://github.com/shlomi-noach/awesome-mysql#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MySQL</font></font></a></li>
+<li><a href="https://github.com/dahlia/awesome-sqlalchemy#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SQL炼金术</font></font></a></li>
+<li><a href="https://github.com/mark-rushakoff/awesome-influxdb#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">InfluxDB</font></font></a></li>
+<li><a href="https://github.com/neueda/awesome-neo4j#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">新4j</font></font></a></li>
+<li><a href="https://github.com/ramnes/awesome-mongodb#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MongoDB</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - NoSQL 数据库。</font></font></li>
+<li><a href="https://github.com/d3viant0ne/awesome-rethinkdb#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重新思考数据库</font></font></a></li>
+<li><a href="https://github.com/mohataher/awesome-tinkerpop#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TinkerPop</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 图计算框架。</font></font></li>
+<li><a href="https://github.com/dhamaniasad/awesome-postgres#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PostgreSQL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 对象关系数据库。</font></font></li>
+<li><a href="https://github.com/quangv/awesome-couchdb#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CouchDB</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 面向文档的 NoSQL 数据库。</font></font></li>
+<li><a href="https://github.com/rayokota/awesome-hbase#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HBase</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 分布式、可扩展的大数据存储。</font></font></li>
+<li><a href="https://github.com/erictleung/awesome-nosql-guides#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NoSQL 指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 帮助使用非关系型、分布式、开源和水平可扩展的数据库。</font></font></li>
+<li><a href="https://github.com/mgramin/awesome-db-tools#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库工具</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 一切使数据库工作变得更容易的工具。</font></font></li>
+<li><a href="https://github.com/vaticle/typedb-awesome#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TypeDB</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将大型且复杂的数据网络组织为一个知识体系的逻辑数据库。</font></font></li>
+<li><a href="https://github.com/Anant/awesome-cassandra#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cassandra</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 开源、分布式、宽列存储、NoSQL 数据库管理系统。</font></font></li>
+<li><a href="https://github.com/taosdata/awesome-tdengine#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TDengine</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 具有高性能、可扩展性和 SQL 支持的开源时间序列数据库。</font></font></li>
+<li><a href="https://github.com/lyqht/awesome-supabase#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Supabase</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Firebase 的开源替代品。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-media" class="anchor" aria-hidden="true" tabindex="-1" href="#media"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">媒体</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/shime/creative-commons-media#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">知识共享媒体</font></font></a></li>
+<li><a href="https://github.com/brabadu/awesome-fonts#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">字体</font></font></a></li>
+<li><a href="https://github.com/chrissimpkins/codeface#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Codeface</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 文本编辑器字体。</font></font></li>
+<li><a href="https://github.com/neutraltone/awesome-stock-resources#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">库存资源</font></font></a></li>
+<li><a href="https://github.com/davisonio/awesome-gif#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GIF</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 以动画图像而闻名的图像格式。</font></font></li>
+<li><a href="https://github.com/ciconia/awesome-music#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">音乐</font></font></a></li>
+<li><a href="https://github.com/44bits/awesome-opensource-documents#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源文档</font></font></a></li>
+<li><a href="https://github.com/willianjusten/awesome-audio-visualization#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">音频可视化</font></font></a></li>
+<li><a href="https://github.com/ebu/awesome-broadcasting#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">广播</font></font></a></li>
+<li><a href="https://github.com/Siilwyn/awesome-pixel-art#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Pixel Art</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 像素级数字艺术。</font></font></li>
+<li><a href="https://github.com/transitive-bullshit/awesome-ffmpeg#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FFmpeg</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于录制、转换和流式传输音频和视频的跨平台解决方案。</font></font></li>
+<li><a href="https://github.com/notlmn/awesome-icons#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图标</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 可下载的 SVG/PNG/字体图标项目。</font></font></li>
+<li><a href="https://github.com/stingalleman/awesome-audiovisual#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视听</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 专业环境中的灯光、音频和视频。</font></font></li>
+<li><a href="https://github.com/mfkl/awesome-vlc#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VLC</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 跨平台媒体播放器软件和流媒体服务器。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-learn" class="anchor" aria-hidden="true" tabindex="-1" href="#learn"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/therebelrobot/awesome-workshopper#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CLI Workshoppers</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 交互式教程。</font></font></li>
+<li><a href="https://github.com/karlhorky/learn-to-program#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习编程</font></font></a></li>
+<li><a href="https://github.com/matteofigus/awesome-speaking#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请讲</font></font></a></li>
+<li><a href="https://github.com/lucasviola/awesome-tech-videos#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">技术视频</font></font></a></li>
+<li><a href="https://github.com/hangtwenty/dive-into-machine-learning#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深入研究机器学习</font></font></a></li>
+<li><a href="https://github.com/watson/awesome-computer-history#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机历史</font></font></a></li>
+<li><a href="https://github.com/HollyAdele/awesome-programming-for-kids#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">儿童编程</font></font></a></li>
+<li><a href="https://github.com/RahulBirCodes/awesome-steam#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STEAM</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 所有年级的特定科学、技术、工程、艺术和数学 (STEAM) 课程的补充。</font></font></li>
+<li><a href="https://github.com/yrgo/awesome-educational-games#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教育游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 边玩边学习。</font></font></li>
+<li><a href="https://github.com/micromata/awesome-javascript-learning#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JavaScript 学习</font></font></a></li>
+<li><a href="https://github.com/micromata/awesome-css-learning#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSS 学习</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 主要是关于 CSS - 语言和模块。</font></font></li>
+<li><a href="https://github.com/dend/awesome-product-management#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">产品管理</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 了解如何成为更好的产品经理。</font></font></li>
+<li><a href="https://github.com/liuchong/awesome-roadmaps#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路线图</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 为您提供清晰的路线来提高您的知识和技能。</font></font></li>
+<li><a href="https://github.com/JoseDeFreitas/awesome-youtubers#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube 用户</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 观看 YouTube 用户教您技术的视频教程。</font></font></li>
+<li><a href="https://github.com/dribdat/awesome-hackathon#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">黑客马拉松</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 举办有趣且富有成效的黑客马拉松。</font></font></li>
+<li><a href="https://github.com/PanXProject/awesome-certificates#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">证书</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 免费计算机科学认证来展示您的知识。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-security" class="anchor" aria-hidden="true" tabindex="-1" href="#security"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/paragonie/awesome-appsec#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用安全</font></font></a></li>
+<li><a href="https://github.com/sbilly/awesome-security#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全</font></font></a></li>
+<li><a href="https://github.com/apsdehal/awesome-ctf#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CTF——</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">夺旗。</font></font></li>
+<li><a href="https://github.com/brootware/awesome-cyber-security-university#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络安全大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 专注于边做边学的免费教育资源。</font></font></li>
+<li><a href="https://github.com/rshipp/awesome-malware-analysis#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">恶意软件分析</font></font></a></li>
+<li><a href="https://github.com/ashishb/android-security-awesome#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安卓安全</font></font></a></li>
+<li><a href="https://github.com/carpedm20/awesome-hacking#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">黑客攻击</font></font></a></li>
+<li><a href="https://github.com/daviddias/awesome-hacking-locations#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">黑客攻击点</font></font></a></li>
+<li><a href="https://github.com/paralax/awesome-honeypots#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">蜜罐</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 欺骗陷阱，旨在诱使攻击者尝试破坏组织中的信息系统。</font></font></li>
+<li><a href="https://github.com/meirwah/awesome-incident-response#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">事件响应</font></font></a></li>
+<li><a href="https://github.com/jaredthecoder/awesome-vehicle-security#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">车辆安全和汽车黑客</font></font></a></li>
+<li><a href="https://github.com/qazbnm456/awesome-web-security#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络安全</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 网络应用程序和服务的安全性。</font></font></li>
+<li><a href="https://github.com/fabacab/awesome-lockpicking#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开锁</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 无需钥匙即可通过操作锁的部件来解锁锁的艺术。</font></font></li>
+<li><a href="https://github.com/fabacab/awesome-cybersecurity-blueteam#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络安全蓝队</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 识别信息技术系统中安全缺陷的个人团体。</font></font></li>
+<li><a href="https://github.com/cpuu/awesome-fuzzing#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模糊测试</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 自动化软件测试技术，涉及提供伪随机生成的输入数据。</font></font></li>
+<li><a href="https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">嵌入式和物联网安全</font></font></a></li>
+<li><a href="https://github.com/bakke92/awesome-gdpr#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GDPR</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 针对欧盟境内所有个人的数据保护和隐私的法规。</font></font></li>
+<li><a href="https://github.com/TaptuIT/awesome-devsecops#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DevSecOps</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将安全实践集成到</font></font><a href="https://en.wikipedia.org/wiki/DevOps" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DevOps</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中。</font></font></li>
+<li><a href="https://github.com/dhondta/awesome-executable-packing#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可执行文件打包</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 打包和解包可执行格式。</font></font></li>
+<li><a href="https://github.com/Karneades/awesome-malware-persistence#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">恶意软件持久性</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 攻击者用来在重新启动后保持对系统的访问的技术。</font></font></li>
+<li><a href="https://github.com/kareniel/awesome-evm-security#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EVM 安全</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 了解以太坊虚拟机安全生态系统。</font></font></li>
+<li><a href="https://github.com/n0kovo/awesome-password-cracking#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密码破解</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 从系统中以加扰形式存储或传输的数据中恢复密码的过程。</font></font></li>
+<li><a href="https://github.com/Karneades/awesome-security-card-games#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全卡牌游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 训练您的技能并讨论各种安全主题。</font></font></li>
+<li><a href="https://github.com/satta/awesome-suricata#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Suricata</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 入侵检测/预防系统和网络安全监控引擎。</font></font></li>
+<li><a href="https://github.com/FonduAI/awesome-prompt-injection#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提示注入</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 一种专门针对机器学习模型的漏洞。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-content-management-systems" class="anchor" aria-hidden="true" tabindex="-1" href="#content-management-systems"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内容管理系统</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/umbraco-community/awesome-umbraco#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">乌姆布拉科</font></font></a></li>
+<li><a href="https://github.com/refinerycms-contrib/awesome-refinerycms#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Refinery CMS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Ruby on Rails CMS。</font></font></li>
+<li><a href="https://github.com/springload/awesome-wagtail#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wagtail</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Django CMS 专注于灵活性和用户体验。</font></font></li>
+<li><a href="https://github.com/drmonkeyninja/awesome-textpattern#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Textpattern</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 PHP 的轻量级 CMS。</font></font></li>
+<li><a href="https://github.com/nirgn975/awesome-drupal#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Drupal</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 可扩展的基于 PHP 的 CMS。</font></font></li>
+<li><a href="https://github.com/craftcms/awesome#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Craft CMS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 内容优先的 CMS。</font></font></li>
+<li><a href="https://github.com/MartinMiles/Awesome-Sitecore#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sitecore</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - .NET 数字营销平台，将 CMS 与管理多个网站的工具相结合。</font></font></li>
+<li><a href="https://github.com/wernerkrauss/awesome-silverstripe-cms#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Silverstripe CMS</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - PHP MVC 框架，用作经典或无头 CMS.</font></font></li>
+<li><a href="https://github.com/directus-community/awesome-directus#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Directus</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于管理 SQL 数据库内容的实时 API 和应用程序仪表板。</font></font></li>
+<li><a href="https://github.com/collective/awesome-plone#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Plone</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 开源 Python CMS。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-hardware" class="anchor" aria-hidden="true" tabindex="-1" href="#hardware"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">硬件</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/Kiloreux/awesome-robotics#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人技术</font></font></a></li>
+<li><a href="https://github.com/HQarroum/awesome-iot#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">物联网</font></font></a></li>
+<li><a href="https://github.com/kitspace/awesome-electronics#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电子产品</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 适合电子工程师和爱好者。</font></font></li>
+<li><a href="https://github.com/rabschi/awesome-beacon#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">蓝牙信标</font></font></a></li>
+<li><a href="https://github.com/gitfrage/guitarspecs#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电吉他规格</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 制作您自己的电吉他的清单。</font></font></li>
+<li><a href="https://github.com/beardicus/awesome-plotters#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">绘图仪</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 计算机控制的绘图机和其他视觉艺术机器人。</font></font></li>
+<li><a href="https://github.com/protontypes/awesome-robotic-tooling#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人工具</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 用于专业机器人开发的免费开放工具。</font></font></li>
+<li><a href="https://github.com/szenergy/awesome-lidar#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LIDAR</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过用激光照射目标来测量距离的传感器。</font></font></li>
+<li><a href="https://github.com/delftopenhardware/awesome-open-hardware#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开放硬件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 开源硬件项目。</font></font></li>
+<li><a href="https://github.com/rickstaa/awesome-adsb#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ADS-B</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 定期广播飞机身份、位置和数据的技术。</font></font></li>
+<li><a href="https://github.com/Matthias84/awesome-flying-fpv#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Flying FPV</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 与无人机/无人机相关的开放硬件和软件。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-business" class="anchor" aria-hidden="true" tabindex="-1" href="#business"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">商业</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/opencompany/awesome-open-company#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开放公司</font></font></a></li>
+<li><a href="https://github.com/mmccaff/PlacesToPostYourStartup#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布您的初创公司的地方</font></font></a></li>
+<li><a href="https://github.com/domenicosolazzo/awesome-okr#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OKR 方法论</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 目标设定和沟通最佳实践。</font></font></li>
+<li><a href="https://github.com/LappleApple/awesome-leading-and-managing#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">领导和管理</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 在技术公司/环境中领导人员并担任经理。</font></font></li>
+<li><a href="https://github.com/mezod/awesome-indie#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">独立</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 独立开发商业务。</font></font></li>
+<li><a href="https://github.com/cjbarber/ToolsOfTheTrade#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">行业工具</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 公司在黑客新闻上使用的工具。</font></font></li>
+<li><a href="https://github.com/nglgzz/awesome-clean-tech#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">清洁技术</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——用技术应对气候变化。</font></font></li>
+<li><a href="https://github.com/wardley-maps-community/awesome-wardley-maps#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wardley 地图</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 提供高度态势感知能力，帮助改进战略规划和决策。</font></font></li>
+<li><a href="https://github.com/RayBB/awesome-social-enterprise#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社会企业</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——建立一个主要关注社会影响且至少部分自筹资金的组织。</font></font></li>
+<li><a href="https://github.com/kdeldycke/awesome-engineering-team-management#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工程团队管理</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 如何从软件开发过渡到工程管理。</font></font></li>
+<li><a href="https://github.com/agamm/awesome-developer-first#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发人员优先的产品</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 以开发人员为用户的产品。</font></font></li>
+<li><a href="https://github.com/kdeldycke/awesome-billing#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计费</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 付款、发票、定价、会计、市场、欺诈和商业智能。</font></font></li>
+<li><a href="https://github.com/aleixmorgadas/awesome-engineering-strategy#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工程策略</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 如何设计和执行技术领先的工程策略。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-work" class="anchor" aria-hidden="true" tabindex="-1" href="#work"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工作</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/matiassingers/awesome-slack#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Slack</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 团队协作。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/filipelinhares/awesome-slack#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/lukasz-madon/awesome-remote-job#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">远程工作</font></font></a></li>
+<li><a href="https://github.com/jyguyomarch/awesome-productivity#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生产率</font></font></a></li>
+<li><a href="https://github.com/tramcar/awesome-job-boards#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">利基职位委员会</font></font></a></li>
+<li><a href="https://github.com/DopplerHQ/awesome-interview-questions#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程面试</font></font></a></li>
+<li><a href="https://github.com/joho/awesome-code-review#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码审查</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 审查代码。</font></font></li>
+<li><a href="https://github.com/j0hnm4r5/awesome-creative-technology#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创意技术</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 专注于将计算、设计、艺术和用户体验相结合的企业和团体。</font></font></li>
+<li><a href="https://github.com/lodthe/awesome-internships#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实习</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 简历写作指南和雇用实习生的公司。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-networking" class="anchor" aria-hidden="true" tabindex="-1" href="#networking"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">联网</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/sdnds-tw/awesome-sdn#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件定义网络</font></font></a></li>
+<li><a href="https://github.com/briatte/awesome-network-analysis#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络分析</font></font></a></li>
+<li><a href="https://github.com/caesar0301/awesome-pcaptools#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PCAP工具</font></font></a></li>
+<li><a href="https://github.com/rtckit/awesome-rtc#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实时通信</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 用于几乎同时交换媒体和数据的网络协议。</font></font></li>
+<li><a href="https://github.com/eozer/awesome-snmp#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SNMP</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于收集、修改和组织有关 IP 网络上受管设备信息的协议。</font></font></li>
+<li><a href="https://github.com/secdev/awesome-scapy#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Scapy</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Python 的交互式数据包操作。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-decentralized-systems" class="anchor" aria-hidden="true" tabindex="-1" href="#decentralized-systems"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">去中心化系统</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/igorbarinov/awesome-bitcoin#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">比特币</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 为软件开发人员提供的比特币服务和工具。</font></font></li>
+<li><a href="https://github.com/vhpoet/awesome-ripple#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ripple</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 开源分布式结算网络。</font></font></li>
+<li><a href="https://github.com/machinomy/awesome-non-financial-blockchain#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非金融区块链</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 非金融区块链应用。</font></font></li>
+<li><a href="https://github.com/hyperupcall/awesome-mastodon#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mastodon</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 开源去中心化微博网络。</font></font></li>
+<li><a href="https://github.com/ttumiel/Awesome-Ethereum#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以太坊</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 用于智能合约开发的分布式计算平台。</font></font></li>
+<li><a href="https://github.com/steven2358/awesome-blockchain-ai#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">区块链 AI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于人工智能和机器学习的区块链项目。</font></font></li>
+<li><a href="https://github.com/DanailMinchev/awesome-eosio#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EOSIO</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 支持工业规模应用程序的去中心化操作系统。</font></font></li>
+<li><a href="https://github.com/chainstack/awesome-corda#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Corda</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 专为商业设计的开源区块链平台。</font></font></li>
+<li><a href="https://github.com/msmolyakov/awesome-waves#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Waves</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于 Web 3.0 应用程序和去中心化解决方案的开源区块链平台和开发工具集。</font></font></li>
+<li><a href="https://github.com/substrate-developer-hub/awesome-substrate#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Substrate</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用 Rust 编写可扩展、可升级的区块链的框架。</font></font></li>
+<li><a href="https://github.com/golemfactory/awesome-golem#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Golem</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 计算资源的开源点对点市场。</font></font></li>
+<li><a href="https://github.com/friedger/awesome-stacks-chain#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Stacks</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 由比特币保护的智能合约平台。</font></font></li>
+<li><a href="https://github.com/aorumbayev/awesome-algorand#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Algorand</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一个开源的权益证明区块链和智能合约计算平台。</font></font></li>
+<li><a href="https://github.com/zolagonano/awesome-zeronet#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ZeroNet</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一个由点对点用户组成的分散式网络网络。</font></font></li>
+<li><a href="https://github.com/cosmos/awesome-cosmos#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cosmos SDK</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于在 Go 中构建特定于应用程序的区块链的模块化框架。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-health-and-social-science" class="anchor" aria-hidden="true" tabindex="-1" href="#health-and-social-science"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">健康与社会科学</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/caufieldjh/awesome-bioie#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物医学信息提取</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 如何从非结构化生物医学数据和文本中提取信息。</font></font></li>
+<li><a href="https://github.com/eselkin/awesome-computational-neuroscience#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算神经科学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 使用计算方法研究神经系统的多学科科学。</font></font></li>
+<li><a href="https://github.com/folkswhocode/awesome-diversity#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多元化</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——创建一个更具包容性和多元化的科技社区。</font></font></li>
+<li><a href="https://github.com/maehr/awesome-digital-history#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字历史</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 计算机辅助的历史科学研究。</font></font></li>
+<li><a href="https://github.com/KimberlyMunoz/empathy-in-engineering#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工程同理心</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 建立和促进更具同情心的工程文化。</font></font></li>
+<li><a href="https://github.com/kakoni/awesome-healthcare#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">医疗保健</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 为设施、提供商、开发人员、政策专家和研究人员提供的开源医疗保健软件。</font></font></li>
+<li><a href="https://github.com/humanetech-community/awesome-humane-tech#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人道技术</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 有助于改善社会的开源项目。</font></font></li>
+<li><a href="https://github.com/dreamingechoes/awesome-mental-health#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">心理健康</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 软件行业的心理健康意识和自我保健。</font></font></li>
+<li><a href="https://github.com/analyticalmonk/awesome-neuroscience#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神经科学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 研究神经系统和大脑。</font></font></li>
+<li><a href="https://github.com/dh-tech/awesome-digital-humanities#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字人文</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 使用定量或计算方法的人文学者软件。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-events" class="anchor" aria-hidden="true" tabindex="-1" href="#events"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">活动</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/danvoyce/awesome-creative-tech-events#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创意技术活动</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 全球范围内有关创意编码、技术、设计、音乐、艺术和酷炫事物的活动。</font></font></li>
+<li><a href="https://github.com/ildoc/awesome-italy-events#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">意大利活动</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 意大利与科技相关的活动。</font></font></li>
+<li><a href="https://github.com/awkward/awesome-netherlands-events#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">荷兰的活动</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 荷兰的科技相关活动。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-testing" class="anchor" aria-hidden="true" tabindex="-1" href="#testing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/TheJambo/awesome-testing#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——软件测试。</font></font></li>
+<li><a href="https://github.com/mojoaxel/awesome-regression-testing#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视觉回归测试</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 确保更改不会破坏功能或风格。</font></font></li>
+<li><a href="https://github.com/christian-bromann/awesome-selenium#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Selenium</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 开源浏览器自动化框架和生态系统。</font></font></li>
+<li><a href="https://github.com/SrinivasanTarget/awesome-appium#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Appium</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 应用程序的测试自动化工具。</font></font></li>
+<li><a href="https://github.com/sindresorhus/awesome-tap#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TAP</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 测试任何协议。</font></font></li>
+<li><a href="https://github.com/aliesbelik/awesome-jmeter#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JMeter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 负载测试和性能测量工具。</font></font></li>
+<li><a href="https://github.com/grafana/awesome-k6#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">k6</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 开源、以开发人员为中心的性能监控和负载测试解决方案。</font></font></li>
+<li><a href="https://github.com/mxschmitt/awesome-playwright#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Playwright</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js 库，可使用单个 API 自动化 Chromium、Firefox 和 WebKit。</font></font></li>
+<li><a href="https://github.com/fityanos/awesome-quality-assurance-roadmap#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">质量保证路线图</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 如何开始和建立软件测试职业生涯。</font></font></li>
+<li><a href="https://github.com/aliesbelik/awesome-gatling#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Galing</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Scala、Akka 和 Netty 的开源负载和性能测试框架。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-miscellaneous" class="anchor" aria-hidden="true" tabindex="-1" href="#miscellaneous"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">各种各样的</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/writing-resources/awesome-scientific-writing#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">科学写作</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 使用 Markdown、reStructuredText 和 Jupyter 笔记本进行无干扰的科学写作。</font></font></li>
+<li><a href="https://github.com/burningtree/awesome-json#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JSON</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于文本的数据交换格式。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/tmcw/awesome-geojson#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地理JSON</font></font></a></li>
+<li><a href="https://github.com/jdorfman/awesome-json-datasets#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据集</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/secretGeek/awesomeCSV#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSV</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一种文本文件格式，用于存储表格数据并使用逗号分隔值。</font></font></li>
+<li><a href="https://github.com/AchoArnold/discount-for-student-dev#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学生开发者折扣</font></font></a></li>
+<li><a href="https://github.com/kyleterry/awesome-radio#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">收音机</font></font></a></li>
+<li><a href="https://github.com/sindresorhus/awesome#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">太棒了</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 递归说明。</font></font></li>
+<li><a href="https://github.com/0xnr/awesome-analytics#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分析</font></font></a></li>
+<li><a href="https://github.com/marmelab/awesome-rest#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">休息</font></font></a></li>
+<li><a href="https://github.com/cicdops/awesome-ciandcd#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">持续集成和持续交付</font></font></a></li>
+<li><a href="https://github.com/mmcgrana/services-engineering#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">服务工程</font></font></a></li>
+<li><a href="https://github.com/ripienaar/free-for-dev#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发者免费</font></font></a></li>
+<li><a href="https://github.com/cyberglot/awesome-answers#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">答案</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Stack Overflow、Quora 等。</font></font></li>
+<li><a href="https://github.com/diessica/awesome-sketch#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sketch</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 适用于 macOS 的设计应用程序。</font></font></li>
+<li><a href="https://github.com/melvin0008/awesome-projects-boilerplates#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">样板项目</font></font></a></li>
+<li><a href="https://github.com/matiassingers/awesome-readme#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自述文件</font></font></a></li>
+<li><a href="https://github.com/MyHoneyBadger/awesome-github-wiki#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub Wiki</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - GitHub 上除自述文件之外的综合文档。</font></font></li>
+<li><a href="https://github.com/NARKOZ/guides#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设计和开发指南</font></font></a></li>
+<li><a href="https://github.com/kilimchoi/engineering-blogs#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件工程博客</font></font></a></li>
+<li><a href="https://github.com/awesome-selfhosted/awesome-selfhosted#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自托管</font></font></a></li>
+<li><a href="https://github.com/DataDaoDe/awesome-foss-apps#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自由和开源软件生产应用程序</font></font></a></li>
+<li><a href="https://github.com/alferov/awesome-gulp#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Gulp</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 任务运行程序。</font></font></li>
+<li><a href="https://github.com/sindresorhus/amas#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AMA</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 有什么问题都可以问我。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/stoeffel/awesome-ama-answers#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">答案</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/ibaaj/awesome-OpenSourcePhotography#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源摄影</font></font></a></li>
+<li><a href="https://github.com/eug/awesome-opengl#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenGL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于渲染 2D 和 3D 图形的跨平台 API。</font></font></li>
+<li><a href="https://github.com/chentsulin/awesome-graphql#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GraphQL</font></font></a></li>
+<li><a href="https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">城市和区域规划</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 关于建筑环境和社区。</font></font></li>
+<li><a href="https://github.com/CUTR-at-USF/awesome-transit#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">交通</font></font></a></li>
+<li><a href="https://github.com/emptymalei/awesome-research#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">研究工具</font></font></a></li>
+<li><a href="https://github.com/javierluraschi/awesome-dataviz#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据可视化</font></font></a></li>
+<li><a href="https://github.com/mfornos/awesome-microservices#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">微服务</font></font></a></li>
+<li><a href="https://github.com/jagracey/Awesome-Unicode#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unicode</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Unicode 标准、怪癖、包和资源。
+</font></font><ul dir="auto">
+<li><a href="https://github.com/Codepoints/awesome-codepoints#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码点</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://github.com/MunGell/awesome-for-beginners#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适合初学者的项目</font></font></a></li>
+<li><a href="https://github.com/gamontal/awesome-katas#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卡塔斯</font></font></a></li>
+<li><a href="https://github.com/drewrwilson/toolsforactivism#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">激进主义工具</font></font></a></li>
+<li><a href="https://github.com/dylanrees/citizen-science#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公民科学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 针对社区和非机构科学家。</font></font></li>
+<li><a href="https://github.com/hobbyquaker/awesome-mqtt#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MQTT</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - “物联网”连接协议。</font></font></li>
+<li><a href="https://github.com/cristianoliveira/awesome4girls#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适合女孩</font></font></a></li>
+<li><a href="https://github.com/vorpaljs/awesome-vorpal#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vorpal</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - Node.js CLI 框架。</font></font></li>
+<li><a href="https://github.com/vinjn/awesome-vulkan#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Vulkan</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 低开销、跨平台 3D 图形和计算 API。</font></font></li>
+<li><a href="https://github.com/egeerardyn/awesome-LaTeX#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LaTeX</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 排版语言。</font></font></li>
+<li><a href="https://github.com/antontarasenko/awesome-economics#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">经济学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 经济学家的入门工具包。</font></font></li>
+<li><a href="https://github.com/sublimino/awesome-funny-markov#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有趣的马尔可夫链</font></font></a></li>
+<li><a href="https://github.com/danielecook/Awesome-Bioinformatics#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物信息学</font></font></a></li>
+<li><a href="https://github.com/hsiaoyi0504/awesome-cheminformatics#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">化学信息学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 应用于化学问题的信息学技术。</font></font></li>
+<li><a href="https://github.com/Siddharth11/Colorful#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多彩</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 选择您的下一个配色方案。</font></font></li>
+<li><a href="https://github.com/scholtzm/awesome-steam#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Steam</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 数字发行平台。</font></font></li>
+<li><a href="https://github.com/hackerkid/bots#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 构建机器人。</font></font></li>
+<li><a href="https://github.com/dastergon/awesome-sre#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">站点可靠性工程</font></font></a></li>
+<li><a href="https://github.com/xen0l/awesome-dtrace#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DTrace</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 动态跟踪框架。</font></font></li>
+<li><a href="https://github.com/bvolpato/awesome-userscripts#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户脚本</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 增强您的浏览体验。</font></font></li>
+<li><a href="https://github.com/tobiasbueschel/awesome-pokemon#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神奇宝贝</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 神奇宝贝和神奇宝贝 GO。</font></font></li>
+<li><a href="https://github.com/exAspArk/awesome-chatops#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ChatOps</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过聊天管理技术和业务运营。</font></font></li>
+<li><a href="https://github.com/kdeldycke/awesome-falsehood#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">谎言</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 程序员所相信的谎言。</font></font></li>
+<li><a href="https://github.com/heynickc/awesome-ddd#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">领域驱动设计</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 通过将实现连接到不断发展的模型来满足复杂需求的软件开发方法。</font></font></li>
+<li><a href="https://github.com/woop/awesome-quantified-self#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量化自我</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 通过技术进行自我跟踪。</font></font></li>
+<li><a href="https://github.com/hbokh/awesome-saltstack#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SaltStack</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Python 的配置管理系统。</font></font></li>
+<li><a href="https://github.com/nicolesaidy/awesome-web-design#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网页设计</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 适合数字设计师。</font></font></li>
+<li><a href="https://github.com/terkelg/awesome-creative-coding#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创意编码</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 编程一些具有表现力的东西，而不是一些功能性的东西。</font></font></li>
+<li><a href="https://github.com/aviaryan/awesome-no-login-web-apps#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无需登录的 Web 应用程序</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 无需登录即可运行的 Web 应用程序。</font></font></li>
+<li><a href="https://github.com/johnjago/awesome-free-software#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自由软件</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 自由如自由。</font></font></li>
+<li><a href="https://github.com/podo/awesome-framer#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Framer</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 交互式 UI 设计原型。</font></font></li>
+<li><a href="https://github.com/BubuAnabelas/awesome-markdown#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Markdown</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 标记语言。</font></font></li>
+<li><a href="https://github.com/mislavcimpersak/awesome-dev-fun#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dev Fun</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 有趣的开发项目。</font></font></li>
+<li><a href="https://github.com/DavidLambauer/awesome-magento2#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Magento 2</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用 PHP 构建的开源电子商务。</font></font></li>
+<li><a href="https://github.com/xiaohanyu/awesome-tikz#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TikZ</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - TeX/LaTeX/ConTeXt 的图形绘制包.</font></font></li>
+<li><a href="https://github.com/johnjago/awesome-ad-free#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无广告</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 无广告替代品。</font></font></li>
+<li><a href="https://github.com/roaldnefs/awesome-prometheus#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prometheus</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 开源监控系统。</font></font></li>
+<li><a href="https://github.com/homematic-community/awesome-homematic#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Homematic</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 智能家居设备。</font></font></li>
+<li><a href="https://github.com/sfischer13/awesome-ledger#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ledger</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 命令行上的复式记账。</font></font></li>
+<li><a href="https://github.com/thomasbnt/awesome-web-monetization#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络货币化</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 一项免费的开放网络标准服务，允许您直接在浏览器中汇款。</font></font></li>
+<li><a href="https://github.com/johnjago/awesome-uncopyright#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无版权</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 公共领域作品。</font></font></li>
+<li><a href="https://github.com/Zheaoli/awesome-coins#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加密货币工具和算法</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 使用加密来调节单位生成和验证传输的数字货币。</font></font></li>
+<li><a href="https://github.com/zachflower/awesome-open-source-supporters#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源支持者</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 免费向开源项目提供工具和服务的公司。</font></font></li>
+<li><a href="https://github.com/robinstickel/awesome-design-principles#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设计原则</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 创建更好、更一致的设计和体验。</font></font></li>
+<li><a href="https://github.com/johnjago/awesome-theravada#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上座部佛教</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 上座部佛教传统的教义。</font></font></li>
+<li><a href="https://github.com/inspectit-labs/awesome-inspectit#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">spectIT</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 开源 Java 应用程序性能管理工具。</font></font></li>
+<li><a href="https://github.com/nayafia/awesome-maintainers#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源维护者</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 作为开源维护者的经验。</font></font></li>
+<li><a href="https://github.com/xxczaki/awesome-calculators#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 适用于每个平台的计算器。</font></font></li>
+<li><a href="https://github.com/ZYSzys/awesome-captcha#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">验证码</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 一种用于计算的质询-响应测试，用于确定用户是否为人类。</font></font></li>
+<li><a href="https://github.com/markusschanta/awesome-jupyter#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jupyter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 创建和共享包含代码、方程、可视化和叙述文本的文档。</font></font></li>
+<li><a href="https://github.com/andrewda/awesome-frc#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FIRST 机器人大赛</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 国际高中机器人锦标赛。</font></font></li>
+<li><a href="https://github.com/karlhorky/awesome-speakers#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演讲者</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 编程和设计社区的会议和聚会演讲者。</font></font></li>
+<li><a href="https://github.com/edm00se/awesome-board-games#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">棋盘游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 适合所有人的桌面游戏乐趣。</font></font></li>
+<li><a href="https://github.com/uraimo/awesome-software-patreons#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Software Patreons</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 资助个人程序员或开源项目的开发。</font></font></li>
+<li><a href="https://github.com/ecohealthalliance/awesome-parasite#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">寄生虫</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 寄生虫和宿主-病原体相互作用。</font></font></li>
+<li><a href="https://github.com/jzarca01/awesome-food#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Food</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - GitHub 上的食品相关项目。</font></font></li>
+<li><a href="https://github.com/alexk111/awesome-bitcoin-payment-processors#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">比特币支付处理器</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 开始接受比特币。</font></font></li>
+<li><a href="https://github.com/nschloe/awesome-scientific-computing#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">科学计算</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 使用计算机解决复杂的科学问题。</font></font></li>
+<li><a href="https://github.com/ScaleLeap/awesome-amazon-seller#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">亚马逊卖家</font></font></a></li>
+<li><a href="https://github.com/brycejohnston/awesome-agriculture#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">农业</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 用于农业和园艺的开源技术。</font></font></li>
+<li><a href="https://github.com/ttt30ga/awesome-product-design#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">产品设计</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 设计产品从最初的概念到生产。</font></font></li>
+<li><a href="https://github.com/catalinmiron/awesome-prisma#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Prisma</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 将您的数据库转变为 GraphQL API。</font></font></li>
+<li><a href="https://github.com/simskij/awesome-software-architecture#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件架构</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 设计和构建软件的学科。</font></font></li>
+<li><a href="https://github.com/stevesong/awesome-connectivity-info#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">连接数据和报告</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 更好地了解谁可以访问电信和互联网基础设施以及使用条款。</font></font></li>
+<li><a href="https://github.com/stackshareio/awesome-stacks#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Stacks</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于构建不同应用程序和功能的技术堆栈。</font></font></li>
+<li><a href="https://github.com/cytodata/awesome-cytodata#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cytodata</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 为计算生物学家提供基于图像的生物表型分析。</font></font></li>
+<li><a href="https://github.com/davisonio/awesome-irc#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IRC</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 开源消息传递协议。</font></font></li>
+<li><a href="https://github.com/cenoura/awesome-ads#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">广告</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 网站的广告和程序化媒体。</font></font></li>
+<li><a href="https://github.com/philsturgeon/awesome-earth#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地球</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 寻找解决气候危机的方法。</font></font></li>
+<li><a href="https://github.com/gruhn/awesome-naming#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命名</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 正确命名计算机科学中的事物。</font></font></li>
+<li><a href="https://github.com/iipc/awesome-web-archiving#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Web 归档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 为子孙后代保存 Web 的努力。</font></font></li>
+<li><a href="https://github.com/schlessera/awesome-wp-cli#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WP-CLI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - WordPress 的命令行界面。</font></font></li>
+<li><a href="https://github.com/mourarthur/awesome-credit-modeling#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信用建模</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 将信用申请人分类为风险类别的方法。</font></font></li>
+<li><a href="https://github.com/ansible-community/awesome-ansible#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ansible</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Python 的开源 IT 配置管理和自动化平台。</font></font></li>
+<li><a href="https://github.com/keller-mark/awesome-biological-visualizations#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物可视化</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 网络上生物数据的交互式可视化。</font></font></li>
+<li><a href="https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">QR 码</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 一种矩阵条形码，可用于存储和共享少量信息。</font></font></li>
+<li><a href="https://github.com/sdassow/awesome-veganism#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">纯素食主义</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">——让以植物为基础的生活方式变得简单易行。</font></font></li>
+<li><a href="https://github.com/mbiesiad/awesome-translations#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻译</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 将文本的含义从一种语言转移到另一种语言。</font></font></li>
+<li><a href="https://github.com/dersvenhesse/awesome-scriptable#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Scriptable</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一个用于 JavaScript 自动化的 iOS 应用程序。</font></font></li>
+<li><a href="https://github.com/msub2/awesome-webxr#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WebXR</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 在网络上启用沉浸式虚拟现实和增强现实内容。</font></font></li>
+<li><a href="https://github.com/atkirtland/awesome-computational-geometry#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算几何</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 几何问题的计算方法。</font></font></li>
+<li><a href="https://github.com/osmlab/awesome-openstreetmap#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenStreetMap</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一个被许多应用程序和设备使用的开放数据映射项目。</font></font></li>
+<li><a href="https://github.com/inoue0426/awesome-computational-biology#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算生物学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 应用于生物学问题的计算方法。</font></font></li>
+<li><a href="https://github.com/readthedocs-examples/awesome-read-the-docs#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 示例文档项目以激发并帮助引导新的文档项目。</font></font></li>
+<li><a href="https://github.com/mcanouil/awesome-quarto#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Quarto</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 基于 Pandoc 构建的科学技术开源出版系统。</font></font></li>
+<li><a href="https://github.com/hallvaaw/awesome-biological-image-analysis#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物图像分析</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 使用图像解释生物现象。</font></font></li>
+<li><a href="https://github.com/sindresorhus/awesome-chatgpt#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ChatGPT</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 由 OpenAI 开发的人工智能聊天机器人。</font></font></li>
+<li><a href="https://github.com/sindresorhus/awesome-whisper#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Whisper</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 由 OpenAI 开发的开源人工智能语音识别系统。</font></font></li>
+<li><a href="https://github.com/airscripts/awesome-steam-deck#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Steam Deck</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 由 Valve 开发的手持游戏电脑。</font></font></li>
+<li><a href="https://github.com/dstdev/awesome-hpc#readme"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HPC</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 高性能计算。</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-related" class="anchor" aria-hidden="true" tabindex="-1" href="#related"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关的</font></font></h2>
+<ul dir="auto">
+<li><a href="https://github.com/topics/awesome"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">所有很棒的列表</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- GitHub 上的所有很棒的列表。</font></font></li>
+<li><a href="https://awesomelists.top" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Awesome Search</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 快速搜索 Awesome 列表。</font></font></li>
+<li><a href="https://github.com/basharovV/StumbleUponAwesome"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">StumbleUponAwesome</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 使用浏览器扩展从 Awesome 数据集中发现随机页面.</font></font></li>
+<li><a href="https://github.com/umutphp/awesome-cli"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Awesome CLI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 一个简单的命令行工具，用于深入研究 Awesome 列表。</font></font></li>
+<li><a href="https://awesome.digitalbunker.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Awesome Viewer</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 所有上述 Awesome 列表的可视化工具。</font></font></li>
+<li><a href="https://www.trackawesomelist.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跟踪 Awesome List</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 查看 Awesome 列表的最新更新。</font></font></li>
+<li><a href="https://opensource-heroes.com/awesome" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Open Source Heroes - Awesome</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 查看 Awesome 列表，其中包含星星、上次更新和许可证等额外信息。</font></font></li>
+</ul>
+</article></div>
